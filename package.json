@@ -7,7 +7,6 @@
     "start": "npm run build:server:once && npm-run-all --parallel run-node watch:server",
     "build:server:once": "NODE_ENV=development webpack --config webpack.config.js",
     "watch:server": "NODE_ENV=development webpack --inline --progress --config webpack.config.js --watch",
-    "nodemon:prod": "NODE_ENV=development nodemon --inspect build.js",
     "run-node": "node build.js"
   },
   "author": "Nguyễn Văn Toàn",
