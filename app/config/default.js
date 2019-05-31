@@ -6,7 +6,7 @@ const Pack = require('./../../package')
 config.web = {
   name: Pack.name,
   connection: {
-    host: 'localhost',
+    host: 'https://server57130724.herokuapp.com',
     port: 3002,
     router: {
       isCaseSensitive: false,
