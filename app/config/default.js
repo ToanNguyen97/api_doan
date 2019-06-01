@@ -7,7 +7,7 @@ config.web = {
   name: Pack.name,
   connection: {
     host: '127.0.0.1',
-    port: 3000,
+    port: 3003,
     router: {
       isCaseSensitive: false,
       stripTrailingSlash: true
