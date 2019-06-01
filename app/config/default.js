@@ -6,8 +6,8 @@ const Pack = require('./../../package')
 config.web = {
   name: Pack.name,
   connection: {
-    host: 'localhost',
-    port: 3002,
+    host: '127.0.0.1',
+    port: 3000,
     router: {
       isCaseSensitive: false,
       stripTrailingSlash: true
