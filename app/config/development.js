@@ -4,7 +4,7 @@ let config = {}
 
 config.web = {
   connection: {
-    port: 3003
+    port: 8080
   }
 }
 
