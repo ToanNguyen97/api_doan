@@ -255,7 +255,8 @@ const hoanTatPayPal = async (request, h) => {
 // báo hết hạn
 const BaoHetHanPT = async (request, h) => {
   try {
-    for(let item of request.dsPT) {
+    for(let item of request.payload.dsPT) {
+      
       let phieuthuMail = await PhieuThuTien.findById({_id: item._id}).populate(['phongID','dsCTPT'])
       let options = {
         content: MailPhieuThuTien.mailPhieuThuTien(phieuthuMail),
@@ -263,7 +264,12 @@ const BaoHetHanPT = async (request, h) => {
         text:'Phiếu Báo Quá Hạn'
       }
       let stringEmail = await GetEmailOfKhach(phieuthuMail.phongID)
-      Mail.SenMail(options, stringEmail)
+      if(stringEmail && stringEmail != null ) {
+        Mail.SenMail(options, stringEmail)
+      } else {
+        console.log('phòng không có khách')
+      }
+      
     }
     
     return true
