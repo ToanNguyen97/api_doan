@@ -24,6 +24,17 @@ const phieuThuTienVal = {
     payload: {
       phieuthuInfo: Joi.object().required()
     }
+  },
+  thongKePT: {
+    payload: {
+      ngayThongKe: Joi.array().required(),
+      tieuChi: Joi.string().required()
+    }
+  },
+  BaoHetHanPT: {
+    payload: {
+      dsPT: Joi.array().required()
+    }
   }
 }
 

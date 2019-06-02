@@ -50,12 +50,44 @@ export default [
   },
   {
     method: 'POST',
+    path: '/phieuthu-baohethan',
+    handler: PhieuThuTienController.BaoHetHanPT,
+    config: {
+      tags: ['api'],
+      description: 'báo hết hạn hợp đồng',
+      validate: PhieuThuTienVal.BaoHetHanPT,
+      plugins: {
+        'hapi-swagger': {
+          responses: {'400': {'description': 'Bad Request'}},
+          payloadType: 'json'
+        }
+      }
+    }
+  },
+  {
+    method: 'POST',
     path: '/phieuthutien',
     handler: PhieuThuTienController.save,
     config: {
       tags: ['api'],
       description: 'them hoac sua phieu thu',
       validate: PhieuThuTienVal.save,
+      plugins: {
+        'hapi-swagger': {
+          responses: {'400': {'description': 'Bad Request'}},
+          payloadType: 'json'
+        }
+      }
+    }
+  },
+  {
+    method: 'POST',
+    path: '/phieuthu-thongke',
+    handler: PhieuThuTienController.thongKePT,
+    config: {
+      tags: ['api'],
+      description: 'thống kê phiếu thu',
+      validate: PhieuThuTienVal.thongKePT,
       plugins: {
         'hapi-swagger': {
           responses: {'400': {'description': 'Bad Request'}},

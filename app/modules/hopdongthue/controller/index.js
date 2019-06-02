@@ -16,6 +16,7 @@ const Phong = Mongoose.model('Phong')
 const save = async (request, h) => {
   try {
     let data = request.payload
+    console.log('du lieu', data)
     let item = await HopDongThuePhong.findById(data._id)
     let khachThue = {}
     if(item) {

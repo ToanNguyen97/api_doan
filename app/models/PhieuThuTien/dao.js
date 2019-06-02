@@ -1,12 +1,20 @@
+
 'use strict'
-
-import Mongoose from 'mongoose'
-const Schema = Mongoose.Schema
-
-const cacKhoanThuSchema = new Schema({ 
-  TenKhoanThu: {type: String, required: true},
-  GiaKhoanThu: {type: Number, required: true},
-  DVT: String
-})
-
-module.exports = Mongoose.model('CacKhoanThu', cacKhoanThuSchema)
+module.exports = function (schema, options) {
+  schema.statics.thongKePT = async function(payload) {
+    let Model = this
+    let ngayBD = payload.ngayThongKe[0]
+    let ngayKT = payload.ngayThongKe[1]
+    if(payload.tieuChi === 'ptLap') {
+      return await Model.find({
+        ngayLap: {$gt: ngayBD, $lt: ngayKT}
+      }).populate(['dsCTPT',{path:'phongID', populate:['khuPhongID']} ])
+    }
+    if(payload.tieuChi === 'ptKT') {
+      return await Model.find({
+        tinhTrangPhieuThu: 'quá hạn',
+        ngayHetHan: {$gt: ngayBD, $lt: ngayKT}
+      }).populate(['dsCTPT',{path:'phongID', populate:['khuPhongID']} ])
+    }
+  }
+}

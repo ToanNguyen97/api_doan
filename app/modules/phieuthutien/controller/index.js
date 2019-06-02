@@ -252,6 +252,34 @@ const hoanTatPayPal = async (request, h) => {
     return Boom.forbidden(err)
   }
 }
+// báo hết hạn
+const BaoHetHanPT = async (request, h) => {
+  try {
+    for(let item of request.dsPT) {
+      let phieuthuMail = await PhieuThuTien.findById({_id: item._id}).populate(['phongID','dsCTPT'])
+      let options = {
+        content: MailPhieuThuTien.mailPhieuThuTien(phieuthuMail),
+        subject: 'Phiếu Báo Quá Hạn',
+        text:'Phiếu Báo Quá Hạn'
+      }
+      let stringEmail = await GetEmailOfKhach(phieuthuMail.phongID)
+      Mail.SenMail(options, stringEmail)
+    }
+    
+    return true
+  } catch (err) {
+    return Boom.forbidden(err)
+  }
+}
+// thống kê
+const thongKePT = async (request, h) => {
+  try {
+    let data = await PhieuThuTien.thongKePT(request.payload)
+    return data || Boom.notFound()
+  } catch (err) {
+    return Boom.forbidden(err)
+  }
+}
 // hàm lọc ra những email của khách đang ở phòng để nhận mail
 const GetEmailOfKhach = async (phongID) => {
   let hopDong = await HopDongThue.find({phongID: phongID}).populate('khachThueID')
@@ -286,5 +314,7 @@ export default {
   save,
   sendMail,
   thanhToanPayPal,
-  hoanTatPayPal
+  hoanTatPayPal,
+  thongKePT,
+  BaoHetHanPT
 }

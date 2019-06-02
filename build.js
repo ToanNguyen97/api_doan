@@ -1052,7 +1052,12 @@ module.exports = function (schema, options) {
           $gt: ngayBD,
           $lt: ngayKT
         }
-      }).populate(['khachThueID', 'phongID']);
+      }).populate([{
+        path: 'khachThueID'
+      }, {
+        path: 'phongID',
+        populate: ['khuPhongID']
+      }]);
     }
 
     if (payload.tieuChi === 'hdKT') {
@@ -1696,6 +1701,51 @@ exports.options = options;
 
 /***/ }),
 
+/***/ "./app/models/PhieuThuTien/dao.js":
+/*!****************************************!*\
+  !*** ./app/models/PhieuThuTien/dao.js ***!
+  \****************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+module.exports = function (schema, options) {
+  schema.statics.thongKePT = async function (payload) {
+    let Model = this;
+    let ngayBD = payload.ngayThongKe[0];
+    let ngayKT = payload.ngayThongKe[1];
+
+    if (payload.tieuChi === 'ptLap') {
+      return await Model.find({
+        ngayLap: {
+          $gt: ngayBD,
+          $lt: ngayKT
+        }
+      }).populate(['dsCTPT', {
+        path: 'phongID',
+        populate: ['khuPhongID']
+      }]);
+    }
+
+    if (payload.tieuChi === 'ptKT') {
+      return await Model.find({
+        tinhTrangPhieuThu: 'quá hạn',
+        ngayHetHan: {
+          $gt: ngayBD,
+          $lt: ngayKT
+        }
+      }).populate(['dsCTPT', {
+        path: 'phongID',
+        populate: ['khuPhongID']
+      }]);
+    }
+  };
+};
+
+/***/ }),
+
 /***/ "./app/models/PhieuThuTien/model.js":
 /*!******************************************!*\
   !*** ./app/models/PhieuThuTien/model.js ***!
@@ -1716,6 +1766,10 @@ var _mongoose2 = _interopRequireDefault(_mongoose);
 
 var _schema = __webpack_require__(/*! ./schema */ "./app/models/PhieuThuTien/schema.js");
 
+var _dao = __webpack_require__(/*! ./dao.js */ "./app/models/PhieuThuTien/dao.js");
+
+var _dao2 = _interopRequireDefault(_dao);
+
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
 const PhieuThuTienSchema = new _mongoose.Schema(_schema.schema, _schema.options);
@@ -1724,6 +1778,7 @@ PhieuThuTienSchema.virtual('dsCTPT', {
   localField: '_id',
   foreignField: 'phieuThuID'
 });
+PhieuThuTienSchema.plugin(_dao2.default);
 exports.default = _mongoose2.default.model('PhieuThuTien', PhieuThuTienSchema);
 
 /***/ }),
@@ -3204,6 +3259,7 @@ const Phong = _mongoose2.default.model('Phong'); //import translateCharacter fro
 const save = async (request, h) => {
   try {
     let data = request.payload;
+    console.log('du lieu', data);
     let item = await HopDongThuePhong.findById(data._id);
     let khachThue = {};
 
@@ -5632,6 +5688,39 @@ const hoanTatPayPal = async (request, h) => {
   } catch (err) {
     return _boom2.default.forbidden(err);
   }
+}; // báo hết hạn
+
+
+const BaoHetHanPT = async (request, h) => {
+  try {
+    for (let item of request.dsPT) {
+      let phieuthuMail = await PhieuThuTien.findById({
+        _id: item._id
+      }).populate(['phongID', 'dsCTPT']);
+      let options = {
+        content: _mailPhieuThuTien2.default.mailPhieuThuTien(phieuthuMail),
+        subject: 'Phiếu Báo Quá Hạn',
+        text: 'Phiếu Báo Quá Hạn'
+      };
+      let stringEmail = await GetEmailOfKhach(phieuthuMail.phongID);
+
+      _sendMail2.default.SenMail(options, stringEmail);
+    }
+
+    return true;
+  } catch (err) {
+    return _boom2.default.forbidden(err);
+  }
+}; // thống kê
+
+
+const thongKePT = async (request, h) => {
+  try {
+    let data = await PhieuThuTien.thongKePT(request.payload);
+    return data || _boom2.default.notFound();
+  } catch (err) {
+    return _boom2.default.forbidden(err);
+  }
 }; // hàm lọc ra những email của khách đang ở phòng để nhận mail
 
 
@@ -5673,7 +5762,9 @@ exports.default = {
   save,
   sendMail,
   thanhToanPayPal,
-  hoanTatPayPal
+  hoanTatPayPal,
+  thongKePT,
+  BaoHetHanPT
 };
 
 /***/ }),
@@ -5784,12 +5875,50 @@ exports.default = [{
   }
 }, {
   method: 'POST',
+  path: '/phieuthu-baohethan',
+  handler: _index2.default.BaoHetHanPT,
+  config: {
+    tags: ['api'],
+    description: 'báo hết hạn hợp đồng',
+    validate: _index4.default.BaoHetHanPT,
+    plugins: {
+      'hapi-swagger': {
+        responses: {
+          '400': {
+            'description': 'Bad Request'
+          }
+        },
+        payloadType: 'json'
+      }
+    }
+  }
+}, {
+  method: 'POST',
   path: '/phieuthutien',
   handler: _index2.default.save,
   config: {
     tags: ['api'],
     description: 'them hoac sua phieu thu',
     validate: _index4.default.save,
+    plugins: {
+      'hapi-swagger': {
+        responses: {
+          '400': {
+            'description': 'Bad Request'
+          }
+        },
+        payloadType: 'json'
+      }
+    }
+  }
+}, {
+  method: 'POST',
+  path: '/phieuthu-thongke',
+  handler: _index2.default.thongKePT,
+  config: {
+    tags: ['api'],
+    description: 'thống kê phiếu thu',
+    validate: _index4.default.thongKePT,
     plugins: {
       'hapi-swagger': {
         responses: {
@@ -5863,6 +5992,17 @@ const phieuThuTienVal = {
   thanhtoan: {
     payload: {
       phieuthuInfo: Joi.object().required()
+    }
+  },
+  thongKePT: {
+    payload: {
+      ngayThongKe: Joi.array().required(),
+      tieuChi: Joi.string().required()
+    }
+  },
+  BaoHetHanPT: {
+    payload: {
+      dsPT: Joi.array().required()
     }
   }
 };
@@ -8333,7 +8473,7 @@ module.exports = {"name":"quanlyphongtro","version":"1.0.0","description":"Đồ
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! F:\DoAnTotNghiep\api_doan\app.js */"./app.js");
+module.exports = __webpack_require__(/*! F:\DoAnTotNghiep\DoAnTotNghiep_Toan\api\app.js */"./app.js");
 
 
 /***/ }),

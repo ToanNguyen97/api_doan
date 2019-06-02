@@ -8,7 +8,7 @@ module.exports = function (schema, options) {
     if(payload.tieuChi === 'hdLap') {
       return await Model.find({
         ngayLap: {$gt: ngayBD, $lt: ngayKT}
-      }).populate(['khachThueID','phongID' ])
+      }).populate([{path:'khachThueID'},{path:'phongID', populate:['khuPhongID']}])
     }
     if(payload.tieuChi === 'hdKT') {
       return await Model.find({
