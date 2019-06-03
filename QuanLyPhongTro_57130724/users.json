@@ -1,0 +1,108 @@
+{
+    "_id": ObjectId("5cc56cd7d871726f84baf5e9"),
+    "email": "toannguyen210597@gmail.com",
+    "status": true,
+    "userName": "admin",
+    "passWord": "$2b$10$kAdo4g1xI1En9y50lEbyiu5F1T4N.gBirxBMCcfpdn.kG2H1SgtqO",
+    "rolesGroupID": ObjectId("5cc565ac9f49904f20b6211e"),
+    "nhanVienID": ObjectId("5ca4546680da7060f0ca5df9"),
+    "createdAt": ISODate("2019-04-28T09:05:27.784+00:00"),
+    "updatedAt": ISODate("2019-05-26T07:20:31.495+00:00"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5cea4ac79624f68d2cc54439"),
+    "email": "doanthanhthaopy@gmail.com",
+    "status": true,
+    "userName": "thanhThao",
+    "passWord": "$2b$10$dZjE6De5XMRawLIVbqbCWORWEiSF4eGGharKKc9vejkxyF8ZVceh2",
+    "rolesGroupID": ObjectId("5cc565b39f49904f20b6211f"),
+    "khachThueID": ObjectId("5cea4840646eb142c429e7ab"),
+    "createdAt": ISODate("2019-05-26T08:13:59.538+00:00"),
+    "updatedAt": ISODate("2019-05-26T08:37:18.809+00:00"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5cea52c5de375472d8de9267"),
+    "email": "beachcrestnhatrang@gmail.com",
+    "status": true,
+    "userName": "levansi0935909533",
+    "passWord": "$2b$10$nu8QZU.qe6zBWSTL8Dop8.CKpxil2.Rbj6ulo/lMu8XVZiStHWMf.",
+    "rolesGroupID": ObjectId("5cc565b39f49904f20b6211f"),
+    "khachThueID": ObjectId("5cea52a7de375472d8de9266"),
+    "createdAt": ISODate("2019-05-26T08:48:05.173+00:00"),
+    "updatedAt": ISODate("2019-05-26T08:48:22.989+00:00"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5cea53c0de375472d8de9269"),
+    "email": "toannguyen210597@gmail.com",
+    "status": true,
+    "userName": "duongthibichvan01648096333",
+    "passWord": "$2b$10$iAyAURRwAhhSC8ujq0i0yeZJAggmu9.V4w7ZDEezsaxjg1HSFwKK.",
+    "rolesGroupID": ObjectId("5cc565b39f49904f20b6211f"),
+    "khachThueID": ObjectId("5cea53b3de375472d8de9268"),
+    "createdAt": ISODate("2019-05-26T08:52:16.750+00:00"),
+    "updatedAt": ISODate("2019-05-26T08:58:25.152+00:00"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5ced356d93f50204608e1466"),
+    "email": "xuanvuong301@gmail.com",
+    "status": true,
+    "userName": "voxuanvuong0123456789",
+    "passWord": "$2b$10$4pT3rUnUzYLWfTWsj58ZRe5jIWUPF41ipr7DMMhPZ2Y69HvgcZkG.",
+    "rolesGroupID": ObjectId("5cc565b39f49904f20b6211f"),
+    "khachThueID": ObjectId("5ced356193f50204608e1465"),
+    "createdAt": ISODate("2019-05-28T13:19:41.745+00:00"),
+    "updatedAt": ISODate("2019-05-28T13:20:01.932+00:00"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5cee67e780239e2c8c56ef74"),
+    "email": "buithinhmkt@gmail.com",
+    "status": true,
+    "userName": "buingocthinh09876543211",
+    "passWord": "$2b$10$MTRo7plOPwkwu16/PIM0W.Q7m/ionESGJ05nhWG58wp3m9gjeQOX6",
+    "rolesGroupID": ObjectId("5cc565b39f49904f20b6211f"),
+    "khachThueID": ObjectId("5cee67d580239e2c8c56ef73"),
+    "createdAt": ISODate("2019-05-29T11:07:19.539+00:00"),
+    "updatedAt": ISODate("2019-05-29T11:07:56.740+00:00"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5cee8d981de2c575147b0d3b"),
+    "email": "toannguyen210597@gmail.com",
+    "status": true,
+    "userName": "nhanviendoanchibinh123456789",
+    "passWord": "$2b$10$i4/V31aN1.0V.mKy/Xpan.7Pm1kba7L4QouA.cKht9SytjK4.Ciyq",
+    "rolesGroupID": ObjectId("5cc565db9f49904f20b62120"),
+    "nhanVienID": ObjectId("5cee8d971de2c575147b0d3a"),
+    "createdAt": ISODate("2019-05-29T13:48:08.020+00:00"),
+    "updatedAt": ISODate("2019-05-29T13:48:08.020+00:00"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5cf344e40273f11d0ccafb06"),
+    "email": "toannguyen210597@gmail.com",
+    "status": false,
+    "userName": "sdadsdsa123312",
+    "passWord": "$2b$10$SUSuzNyZ2uk8sBhy4J4v3OnmYcsgLmASIbKXA64DW7gQf5NTptkwC",
+    "rolesGroupID": ObjectId("5cc565b39f49904f20b6211f"),
+    "khachThueID": ObjectId("5cf344d90273f11d0ccafb05"),
+    "createdAt": ISODate("2019-06-02T03:39:16.087+00:00"),
+    "updatedAt": ISODate("2019-06-02T03:39:16.087+00:00"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5cf38cb9f6303936b06aa853"),
+    "email": "toan210597ntu@gmail.com",
+    "status": true,
+    "userName": "nguyenvantoan0348096333",
+    "passWord": "$2b$10$0OYHwG9SCG0SYjZ1O0OHpu7l42Ul.b4EDfas8/sxOccm/jW1FzZHO",
+    "rolesGroupID": ObjectId("5cc565b39f49904f20b6211f"),
+    "khachThueID": ObjectId("5cea43b51dd7935a4036339c"),
+    "createdAt": ISODate("2019-06-02T08:45:45.945+00:00"),
+    "updatedAt": ISODate("2019-06-02T08:53:34.644+00:00"),
+    "__v": NumberInt(0)
+}

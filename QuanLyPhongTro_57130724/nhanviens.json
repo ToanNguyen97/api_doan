@@ -1,0 +1,32 @@
+{
+    "_id": ObjectId("5ca4546680da7060f0ca5df9"),
+    "gioiTinh": false,
+    "status": true,
+    "hoNhanVien": "Đoàn Thanh",
+    "tenNhanVien": "Mai",
+    "rolesGroupID": ObjectId("5cc565ac9f49904f20b6211e"),
+    "ngaySinh": ISODate("1984-02-10T00:00:00.000+00:00"),
+    "soCMND": "987654321",
+    "soDienThoai": "123456",
+    "diaChi": "Nha Trang",
+    "email": "toannguyen210597@gmail.com",
+    "hoTenNguoiThan": "Mai",
+    "anhDaiDien": "hinhhoatdong.jpg",
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5cee8d971de2c575147b0d3a"),
+    "gioiTinh": true,
+    "status": true,
+    "hoNhanVien": "Doãn Chí",
+    "tenNhanVien": "Bình",
+    "rolesGroupID": ObjectId("5cc565db9f49904f20b62120"),
+    "ngaySinh": ISODate("2019-05-15T00:00:00.000+00:00"),
+    "soCMND": "1123456",
+    "soDienThoai": "123456789",
+    "diaChi": "tuy hòa",
+    "email": "toannguyen210597@gmail.com",
+    "hoTenNguoiThan": "a",
+    "anhDaiDien": "avt.jpg",
+    "__v": NumberInt(0)
+}

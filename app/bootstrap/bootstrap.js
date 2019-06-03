@@ -16,7 +16,8 @@ export const loader = async function (server) {
     info: {
       title: 'Test API',
       version: Pack.version
-    }
+    },
+    'documentationPath': '/api/documentation'
   }
   await server.register([
     /* Plugin lib */

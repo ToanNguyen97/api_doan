@@ -1,0 +1,98 @@
+{
+    "_id": ObjectId("5cea525fde375472d8de9265"),
+    "ngayBookPhong": ISODate("2019-05-26T08:45:12.789+00:00"),
+    "status": false,
+    "phongID": ObjectId("5cea393f8ae92470f4e3d72e"),
+    "hoNguoiBook": "Lê Văn",
+    "tenNguoiBook": "Sĩ",
+    "email": "beachcrestnhatrang@gmail.com",
+    "soCMND": "223665862",
+    "soDienThoai": "0935909533",
+    "diaChi": "Nha Trang, Khánh Hòa",
+    "ngayNhanPhong": ISODate("2019-05-25T17:00:00.000+00:00"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5ced353993f50204608e1464"),
+    "ngayBookPhong": ISODate("2019-05-28T13:17:44.946+00:00"),
+    "status": false,
+    "phongID": ObjectId("5cea38498ae92470f4e3d6ae"),
+    "hoNguoiBook": "Võ Xuân",
+    "tenNguoiBook": "Vương",
+    "email": "xuanvuong301@gmail.com",
+    "soCMND": "229440290",
+    "soDienThoai": "0123456789",
+    "diaChi": "Sơn Hòa",
+    "ngayNhanPhong": ISODate("2019-05-27T17:00:00.000+00:00"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5cee676780239e2c8c56ef72"),
+    "ngayBookPhong": ISODate("2019-05-29T11:04:22.816+00:00"),
+    "status": false,
+    "phongID": ObjectId("5cea36c01dd7935a40363397"),
+    "hoNguoiBook": "Bùi Ngọc",
+    "tenNguoiBook": "Thịnh",
+    "email": "buithinhmkt@gmail.com",
+    "soCMND": "223456567",
+    "soDienThoai": "09876543211",
+    "diaChi": "Nha Trang",
+    "ngayNhanPhong": ISODate("2019-05-30T17:00:00.000+00:00"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5cef38e189faa5422002465c"),
+    "ngayBookPhong": ISODate("2019-05-30T01:58:24.132+00:00"),
+    "status": false,
+    "phongID": ObjectId("5cea37638ae92470f4e3d61a"),
+    "hoNguoiBook": "Võ Nhật",
+    "tenNguoiBook": "Tân",
+    "email": "doanthanhthaopy@gmail.com",
+    "soCMND": "223785987",
+    "soDienThoai": "01548096321",
+    "diaChi": "Nha Trang",
+    "ngayNhanPhong": ISODate("2019-05-30T17:00:00.000+00:00"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5cef3cc689faa5422002465e"),
+    "ngayBookPhong": ISODate("2019-05-30T02:15:19.459+00:00"),
+    "status": false,
+    "phongID": ObjectId("5cea385f8ae92470f4e3d6b9"),
+    "hoNguoiBook": "sdads",
+    "tenNguoiBook": "đsa",
+    "email": "toannguyen210597@gmail.com",
+    "soCMND": "2321314213",
+    "soDienThoai": "123312",
+    "diaChi": "13221",
+    "ngayNhanPhong": ISODate("2019-05-30T17:00:00.000+00:00"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5cef3da613c1398248039e52"),
+    "ngayBookPhong": ISODate("2019-05-30T02:19:03.159+00:00"),
+    "status": false,
+    "phongID": ObjectId("5cea385f8ae92470f4e3d6b9"),
+    "hoNguoiBook": "ádsad",
+    "tenNguoiBook": "dsaas",
+    "email": "toannguyen210597@gmail.com",
+    "soCMND": "2321312",
+    "soDienThoai": "13123123",
+    "diaChi": "XzXZw",
+    "ngayNhanPhong": ISODate("2019-05-30T17:00:00.000+00:00"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5cf46caca7ac363194081f78"),
+    "ngayBookPhong": ISODate("2019-06-03T00:40:34.679+00:00"),
+    "status": false,
+    "phongID": ObjectId("5cea38388ae92470f4e3d6a3"),
+    "hoNguoiBook": "asd",
+    "tenNguoiBook": "sd",
+    "email": "doanthanhthaopy@gmail.com",
+    "soCMND": "223114245",
+    "soDienThoai": "01648096334",
+    "diaChi": "tuy hòa",
+    "ngayNhanPhong": ISODate("2019-06-10T17:00:00.000+00:00"),
+    "__v": NumberInt(0)
+}

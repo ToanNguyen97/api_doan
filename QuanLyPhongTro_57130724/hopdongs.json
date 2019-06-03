@@ -1,0 +1,137 @@
+{
+    "_id": "HD260520192213345670202",
+    "ngayKetThuc": ISODate("2022-05-24T00:00:00.000+00:00"),
+    "khachThueID": ObjectId("5cea4840646eb142c429e7ab"),
+    "phongID": ObjectId("5cea38388ae92470f4e3d6a3"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": "HD260520192236658620303",
+    "ngayKetThuc": ISODate("2021-05-26T00:00:00.000+00:00"),
+    "khachThueID": ObjectId("5cea52a7de375472d8de9266"),
+    "phongID": ObjectId("5cea393f8ae92470f4e3d72e"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": "HD260520192214562650902",
+    "ngayKetThuc": ISODate("2019-05-31T00:00:00.000+00:00"),
+    "khachThueID": ObjectId("5cea53b3de375472d8de9268"),
+    "phongID": ObjectId("5cea387d8ae92470f4e3d6cb"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": "HD280520192294402900302",
+    "ngayKetThuc": ISODate("2019-05-31T00:00:00.000+00:00"),
+    "khachThueID": ObjectId("5ced356193f50204608e1465"),
+    "phongID": ObjectId("5cea38498ae92470f4e3d6ae"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": "HD290520192234565670101",
+    "ngayKetThuc": ISODate("2019-06-06T00:00:00.000+00:00"),
+    "khachThueID": ObjectId("5cee67d580239e2c8c56ef73"),
+    "phongID": ObjectId("5cea36c01dd7935a40363397"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": "HD020620192214562650301",
+    "ngayLap": ISODate("2019-06-02T00:00:00.000+00:00"),
+    "ngayKetThuc": ISODate("2019-06-29T00:00:00.000+00:00"),
+    "khachThueID": ObjectId("5cea53b3de375472d8de9268"),
+    "phongID": ObjectId("5cea37638ae92470f4e3d61a"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": "HD020620192213345670502",
+    "ngayKetThuc": ISODate("2019-06-29T00:00:00.000+00:00"),
+    "khachThueID": ObjectId("5cea4840646eb142c429e7ab"),
+    "phongID": ObjectId("5cea38648ae92470f4e3d6bc"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": "HD030620192294402900502",
+    "ngayLap": ISODate("2019-06-03T00:00:00.000+00:00"),
+    "ngayKetThuc": ISODate("2019-06-29T00:00:00.000+00:00"),
+    "khachThueID": ObjectId("5ced356193f50204608e1465"),
+    "phongID": ObjectId("5cea38648ae92470f4e3d6bc"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": "HD020620192294402900602",
+    "ngayKetThuc": ISODate("2019-06-29T00:00:00.000+00:00"),
+    "khachThueID": ObjectId("5ced356193f50204608e1465"),
+    "phongID": ObjectId("5cea386a8ae92470f4e3d6bf"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": "HD020620192294402900702",
+    "ngayLap": ISODate("2019-06-02T00:00:00.000+00:00"),
+    "ngayKetThuc": ISODate("2019-06-29T00:00:00.000+00:00"),
+    "khachThueID": ObjectId("5ced356193f50204608e1465"),
+    "phongID": ObjectId("5cea38728ae92470f4e3d6c4"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": "HD020620192236658620203",
+    "ngayLap": ISODate("2019-06-02T00:00:00.000+00:00"),
+    "ngayKetThuc": ISODate("2019-06-29T00:00:00.000+00:00"),
+    "khachThueID": ObjectId("5cea52a7de375472d8de9266"),
+    "phongID": ObjectId("5cea39398ae92470f4e3d72b"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": "HD0206201923213142130402",
+    "ngayLap": ISODate("2019-06-02T00:00:00.000+00:00"),
+    "ngayKetThuc": ISODate("2019-06-20T00:00:00.000+00:00"),
+    "khachThueID": ObjectId("5cf344d90273f11d0ccafb05"),
+    "phongID": ObjectId("5cea385f8ae92470f4e3d6b9"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": "HD020620192294402900302",
+    "ngayLap": ISODate("2019-06-02T00:00:00.000+00:00"),
+    "ngayKetThuc": ISODate("2019-06-29T00:00:00.000+00:00"),
+    "khachThueID": ObjectId("5ced356193f50204608e1465"),
+    "phongID": ObjectId("5cea38498ae92470f4e3d6ae"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": "HD020620192236658620603",
+    "ngayLap": ISODate("2019-06-02T00:00:00.000+00:00"),
+    "ngayKetThuc": ISODate("2019-06-29T00:00:00.000+00:00"),
+    "khachThueID": ObjectId("5cea52a7de375472d8de9266"),
+    "phongID": ObjectId("5cea39508ae92470f4e3d73a"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": "HD020620192214476190503",
+    "ngayLap": ISODate("2019-06-02T00:00:00.000+00:00"),
+    "ngayKetThuc": ISODate("2019-06-22T00:00:00.000+00:00"),
+    "khachThueID": ObjectId("5cea43b51dd7935a4036339c"),
+    "phongID": ObjectId("5cea394a8ae92470f4e3d735"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": "HD020620192214476190402",
+    "ngayLap": ISODate("2019-06-02T00:00:00.000+00:00"),
+    "ngayKetThuc": ISODate("2019-06-29T00:00:00.000+00:00"),
+    "khachThueID": ObjectId("5cea43b51dd7935a4036339c"),
+    "phongID": ObjectId("5cea385f8ae92470f4e3d6b9"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": "HD020620192214476190202",
+    "ngayLap": ISODate("2019-06-02T00:00:00.000+00:00"),
+    "ngayKetThuc": ISODate("2019-06-29T00:00:00.000+00:00"),
+    "khachThueID": ObjectId("5cea43b51dd7935a4036339c"),
+    "phongID": ObjectId("5cea38388ae92470f4e3d6a3"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": "HD020620192236658620202",
+    "ngayLap": ISODate("2019-06-02T00:00:00.000+00:00"),
+    "ngayKetThuc": ISODate("2019-06-29T00:00:00.000+00:00"),
+    "khachThueID": ObjectId("5cea52a7de375472d8de9266"),
+    "phongID": ObjectId("5cea38388ae92470f4e3d6a3"),
+    "__v": NumberInt(0)
+}

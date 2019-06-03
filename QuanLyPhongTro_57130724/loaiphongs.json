@@ -1,0 +1,18 @@
+{
+    "_id": ObjectId("5cea34a11dd7935a40363394"),
+    "tenLoaiPhong": "Phòng cửa gỗ",
+    "giaPhong": NumberInt(1000000),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5cea34c31dd7935a40363395"),
+    "tenLoaiPhong": "Phòng cửa sắt",
+    "giaPhong": NumberInt(1200000),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5cea34cd1dd7935a40363396"),
+    "tenLoaiPhong": "Phòng gác lửng",
+    "giaPhong": NumberInt(1500000),
+    "__v": NumberInt(0)
+}

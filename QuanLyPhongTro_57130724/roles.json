@@ -1,0 +1,65 @@
+{
+    "_id": ObjectId("5cc560d021fd1c0d185cbd81"),
+    "roleName": "thống kê biểu đồ",
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5cc560ee21fd1c0d185cbd82"),
+    "roleName": "quản lý khách thuê",
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5cc560f421fd1c0d185cbd83"),
+    "roleName": "phiếu thu tiền",
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5cc5621b130408431020fce2"),
+    "roleName": "thống kê",
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5cc5752e6adfd01278d9a325"),
+    "roleName": "truy cập phòng trọ cô mai",
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5cc5795cf34b6716fc4a82c9"),
+    "roleName": "hợp đồng thuê phòng",
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5cc57a16f34b6716fc4a82ca"),
+    "roleName": "quản lý nhân viên",
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5cc57a84f34b6716fc4a82cb"),
+    "roleName": "quản lý phòng trọ",
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5cc57b1cf34b6716fc4a82cc"),
+    "roleName": "quản lý cấu hình",
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5cc57b81f34b6716fc4a82cd"),
+    "roleName": "quản lý của khách thuê",
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5cc59aaada3e4e5b6c97390c"),
+    "roleName": "phân quyền",
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5ce2a46ada8c8860dc9308a4"),
+    "roleName": "quản lý đặt phòng",
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5cf32d494c6796211463d95e"),
+    "roleName": "thống kê phiếu thu",
+    "__v": NumberInt(0)
+}

@@ -1,0 +1,130 @@
+{
+    "_id": ObjectId("5cea43b51dd7935a4036339c"),
+    "gioiTinh": true,
+    "phongs": [
+        ObjectId("5cea394a8ae92470f4e3d735"),
+        ObjectId("5cea385f8ae92470f4e3d6b9"),
+        ObjectId("5cea38388ae92470f4e3d6a3")
+    ],
+    "hoKhachThue": "Nguyễn Văn",
+    "tenKhachThue": "Toàn",
+    "loaiKhachThueID": ObjectId("5c90512b5330203fa88577f3"),
+    "tinhTrangKhachThue": "Đang thuê",
+    "ngaySinh": ISODate("1997-05-21T00:00:00.000+00:00"),
+    "soCMND": "221447619",
+    "soDienThoai": "0348096333",
+    "email": "toan210597ntu@gmail.com",
+    "hoTenNguoiThan": "Nguyễn Văn An",
+    "diaChi": "Xóm 4, thôn Ngọc Lãng, xã Bình Ngọc, thành phố Tuy Hòa, tỉnh Phú Yên",
+    "anhDaiDien": "avatar.png",
+    "__v": NumberInt(3)
+}
+{
+    "_id": ObjectId("5cea4840646eb142c429e7ab"),
+    "gioiTinh": false,
+    "phongs": [
+        ObjectId("5cea38648ae92470f4e3d6bc")
+    ],
+    "hoKhachThue": "Đoàn Thị Thanh",
+    "tenKhachThue": "Thảo",
+    "loaiKhachThueID": ObjectId("5c9051385330203fa88577f4"),
+    "tinhTrangKhachThue": "Đang thuê",
+    "ngaySinh": ISODate("1997-03-28T00:00:00.000+00:00"),
+    "soCMND": "221334567",
+    "soDienThoai": "0327970864",
+    "email": "doanthanhthaopy@gmail.com",
+    "hoTenNguoiThan": "Đoàn Thị Hồng Thu",
+    "diaChi": "Nho Lâm, thành phố Tuy Hòa, tỉnh Phú Yên",
+    "anhDaiDien": "avatar.png",
+    "__v": NumberInt(3)
+}
+{
+    "_id": ObjectId("5cea52a7de375472d8de9266"),
+    "gioiTinh": false,
+    "phongs": [
+        ObjectId("5cea393f8ae92470f4e3d72e"),
+        ObjectId("5cea39398ae92470f4e3d72b"),
+        ObjectId("5cea39508ae92470f4e3d73a"),
+        ObjectId("5cea38388ae92470f4e3d6a3")
+    ],
+    "hoKhachThue": "Lê Văn",
+    "tenKhachThue": "Sĩ",
+    "email": "beachcrestnhatrang@gmail.com",
+    "soDienThoai": "0935909533",
+    "soCMND": "223665862",
+    "diaChi": "Nha Trang, Khánh Hòa",
+    "tinhTrangKhachThue": "Đang thuê",
+    "anhDaiDien": "avatar.png",
+    "__v": NumberInt(4)
+}
+{
+    "_id": ObjectId("5cea53b3de375472d8de9268"),
+    "gioiTinh": false,
+    "phongs": [
+        ObjectId("5cea387d8ae92470f4e3d6cb"),
+        ObjectId("5cea37638ae92470f4e3d61a")
+    ],
+    "hoKhachThue": "Dương Thị Bích",
+    "tenKhachThue": "Vân",
+    "loaiKhachThueID": ObjectId("5c9051385330203fa88577f4"),
+    "tinhTrangKhachThue": "Đang thuê",
+    "ngaySinh": ISODate("1993-02-03T00:00:00.000+00:00"),
+    "soCMND": "221456265",
+    "soDienThoai": "01648096333",
+    "email": "toannguyen210597@gmail.com",
+    "hoTenNguoiThan": "Dương Liên",
+    "diaChi": "Sơn Hòa, Phú Yên",
+    "anhDaiDien": "avatar.png",
+    "__v": NumberInt(2)
+}
+{
+    "_id": ObjectId("5ced356193f50204608e1465"),
+    "gioiTinh": false,
+    "phongs": [
+        ObjectId("5cea38648ae92470f4e3d6bc"),
+        ObjectId("5cea386a8ae92470f4e3d6bf"),
+        ObjectId("5cea38728ae92470f4e3d6c4"),
+        ObjectId("5cea38498ae92470f4e3d6ae")
+    ],
+    "hoKhachThue": "Võ Xuân",
+    "tenKhachThue": "Vương",
+    "email": "xuanvuong301@gmail.com",
+    "soDienThoai": "0123456789",
+    "soCMND": "229440290",
+    "diaChi": "Sơn Hòa",
+    "tinhTrangKhachThue": "Đang thuê",
+    "anhDaiDien": "avatar.png",
+    "__v": NumberInt(5)
+}
+{
+    "_id": ObjectId("5cee67d580239e2c8c56ef73"),
+    "gioiTinh": false,
+    "phongs": [
+        ObjectId("5cea36c01dd7935a40363397")
+    ],
+    "hoKhachThue": "Bùi Ngọc",
+    "tenKhachThue": "Thịnh",
+    "email": "buithinhmkt@gmail.com",
+    "soDienThoai": "09876543211",
+    "soCMND": "223456567",
+    "diaChi": "Nha Trang",
+    "tinhTrangKhachThue": "Đang thuê",
+    "anhDaiDien": "avatar.png",
+    "__v": NumberInt(1)
+}
+{
+    "_id": ObjectId("5cf344d90273f11d0ccafb05"),
+    "gioiTinh": false,
+    "phongs": [
+        ObjectId("5cea385f8ae92470f4e3d6b9")
+    ],
+    "hoKhachThue": "sdads",
+    "tenKhachThue": "đsa",
+    "email": "toannguyen210597@gmail.com",
+    "soDienThoai": "123312",
+    "soCMND": "2321314213",
+    "diaChi": "13221",
+    "tinhTrangKhachThue": "Đang thuê",
+    "anhDaiDien": "avatar.png",
+    "__v": NumberInt(1)
+}

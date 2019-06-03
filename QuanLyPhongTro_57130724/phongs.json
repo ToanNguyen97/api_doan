@@ -1,0 +1,936 @@
+{
+    "_id": ObjectId("5cea36c01dd7935a40363397"),
+    "anhChiTiet": [
+        "anh_tro_14.jpg",
+        "anh_tro_12.jpg"
+    ],
+    "tenPhong": "Phòng 01",
+    "anhChinh": "anh_tro_14.jpg",
+    "moTa": "Phòng giá sinh viên, mát mẻ",
+    "soDien": NumberInt(100),
+    "soNuoc": NumberInt(5),
+    "giaPhong": NumberInt(1000000),
+    "dKMang": false,
+    "status": true,
+    "homeFlag": true,
+    "hotFlag": false,
+    "tinhTrangPhongID": ObjectId("5c8866b6fcd238559ca25d15"),
+    "khuPhongID": ObjectId("5cea344b1dd7935a40363391"),
+    "loaiPhongID": ObjectId("5cea34a11dd7935a40363394"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5cea37528ae92470f4e3d614"),
+    "anhChiTiet": [
+        "anh_tro_14.jpg",
+        "anh_tro_12.jpg"
+    ],
+    "tenPhong": "Phòng 02",
+    "anhChinh": "anh_tro_14.jpg",
+    "moTa": "Phòng giá sinh viên, mát mẻ",
+    "soDien": NumberInt(0),
+    "soNuoc": NumberInt(0),
+    "giaPhong": NumberInt(1000000),
+    "dKMang": false,
+    "status": true,
+    "homeFlag": true,
+    "hotFlag": false,
+    "tinhTrangPhongID": ObjectId("5c88669ffcd238559ca25d13"),
+    "khuPhongID": ObjectId("5cea344b1dd7935a40363391"),
+    "loaiPhongID": ObjectId("5cea34a11dd7935a40363394"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5cea37638ae92470f4e3d61a"),
+    "anhChiTiet": [
+        "anh_tro_14.jpg",
+        "anh_tro_12.jpg"
+    ],
+    "tenPhong": "Phòng 03",
+    "anhChinh": "anh_tro_14.jpg",
+    "moTa": "Phòng giá sinh viên, mát mẻ",
+    "soDien": NumberInt(0),
+    "soNuoc": NumberInt(0),
+    "giaPhong": NumberInt(1000000),
+    "dKMang": false,
+    "status": true,
+    "homeFlag": true,
+    "hotFlag": false,
+    "tinhTrangPhongID": ObjectId("5c8866b6fcd238559ca25d15"),
+    "khuPhongID": ObjectId("5cea344b1dd7935a40363391"),
+    "loaiPhongID": ObjectId("5cea34a11dd7935a40363394"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5cea37738ae92470f4e3d633"),
+    "anhChiTiet": [
+        "anh_tro_14.jpg",
+        "anh_tro_12.jpg"
+    ],
+    "tenPhong": "Phòng 04",
+    "anhChinh": "anh_tro_14.jpg",
+    "moTa": "Phòng giá sinh viên, mát mẻ",
+    "soDien": NumberInt(0),
+    "soNuoc": NumberInt(0),
+    "giaPhong": NumberInt(1000000),
+    "dKMang": false,
+    "status": true,
+    "homeFlag": true,
+    "hotFlag": false,
+    "tinhTrangPhongID": ObjectId("5c88669ffcd238559ca25d13"),
+    "khuPhongID": ObjectId("5cea344b1dd7935a40363391"),
+    "loaiPhongID": ObjectId("5cea34a11dd7935a40363394"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5cea37798ae92470f4e3d637"),
+    "anhChiTiet": [
+        "anh_tro_14.jpg",
+        "anh_tro_12.jpg"
+    ],
+    "tenPhong": "Phòng 05",
+    "anhChinh": "anh_tro_14.jpg",
+    "moTa": "Phòng giá sinh viên, mát mẻ",
+    "soDien": NumberInt(0),
+    "soNuoc": NumberInt(0),
+    "giaPhong": NumberInt(1000000),
+    "dKMang": false,
+    "status": true,
+    "homeFlag": true,
+    "hotFlag": false,
+    "tinhTrangPhongID": ObjectId("5c88669ffcd238559ca25d13"),
+    "khuPhongID": ObjectId("5cea344b1dd7935a40363391"),
+    "loaiPhongID": ObjectId("5cea34a11dd7935a40363394"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5cea378e8ae92470f4e3d64c"),
+    "anhChiTiet": [
+        "anh_tro_14.jpg",
+        "anh_tro_12.jpg"
+    ],
+    "tenPhong": "Phòng 06",
+    "anhChinh": "anh_tro_14.jpg",
+    "moTa": "Phòng giá sinh viên, mát mẻ",
+    "soDien": NumberInt(0),
+    "soNuoc": NumberInt(0),
+    "giaPhong": NumberInt(1000000),
+    "dKMang": false,
+    "status": true,
+    "homeFlag": true,
+    "hotFlag": false,
+    "tinhTrangPhongID": ObjectId("5c88669ffcd238559ca25d13"),
+    "khuPhongID": ObjectId("5cea344b1dd7935a40363391"),
+    "loaiPhongID": ObjectId("5cea34a11dd7935a40363394"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5cea37968ae92470f4e3d64f"),
+    "anhChiTiet": [
+        "anh_tro_14.jpg",
+        "anh_tro_12.jpg"
+    ],
+    "tenPhong": "Phòng 07",
+    "anhChinh": "anh_tro_14.jpg",
+    "moTa": "Phòng giá sinh viên, mát mẻ",
+    "soDien": NumberInt(0),
+    "soNuoc": NumberInt(0),
+    "giaPhong": NumberInt(1000000),
+    "dKMang": false,
+    "status": true,
+    "homeFlag": true,
+    "hotFlag": false,
+    "tinhTrangPhongID": ObjectId("5c88669ffcd238559ca25d13"),
+    "khuPhongID": ObjectId("5cea344b1dd7935a40363391"),
+    "loaiPhongID": ObjectId("5cea34a11dd7935a40363394"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5cea379c8ae92470f4e3d653"),
+    "anhChiTiet": [
+        "anh_tro_14.jpg",
+        "anh_tro_12.jpg"
+    ],
+    "tenPhong": "Phòng 08",
+    "anhChinh": "anh_tro_14.jpg",
+    "moTa": "Phòng giá sinh viên, mát mẻ",
+    "soDien": NumberInt(0),
+    "soNuoc": NumberInt(0),
+    "giaPhong": NumberInt(1000000),
+    "dKMang": false,
+    "status": true,
+    "homeFlag": true,
+    "hotFlag": false,
+    "tinhTrangPhongID": ObjectId("5c88669ffcd238559ca25d13"),
+    "khuPhongID": ObjectId("5cea344b1dd7935a40363391"),
+    "loaiPhongID": ObjectId("5cea34a11dd7935a40363394"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5cea37a38ae92470f4e3d656"),
+    "anhChiTiet": [
+        "anh_tro_14.jpg",
+        "anh_tro_12.jpg"
+    ],
+    "tenPhong": "Phòng 09",
+    "anhChinh": "anh_tro_14.jpg",
+    "moTa": "Phòng giá sinh viên, mát mẻ",
+    "soDien": NumberInt(0),
+    "soNuoc": NumberInt(0),
+    "giaPhong": NumberInt(1000000),
+    "dKMang": false,
+    "status": true,
+    "homeFlag": true,
+    "hotFlag": false,
+    "tinhTrangPhongID": ObjectId("5c88669ffcd238559ca25d13"),
+    "khuPhongID": ObjectId("5cea344b1dd7935a40363391"),
+    "loaiPhongID": ObjectId("5cea34a11dd7935a40363394"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5cea37ab8ae92470f4e3d65c"),
+    "anhChiTiet": [
+        "anh_tro_14.jpg",
+        "anh_tro_12.jpg"
+    ],
+    "tenPhong": "Phòng 10",
+    "anhChinh": "anh_tro_14.jpg",
+    "moTa": "Phòng giá sinh viên, mát mẻ",
+    "soDien": NumberInt(0),
+    "soNuoc": NumberInt(0),
+    "giaPhong": NumberInt(1000000),
+    "dKMang": false,
+    "status": true,
+    "homeFlag": true,
+    "hotFlag": false,
+    "tinhTrangPhongID": ObjectId("5c88669ffcd238559ca25d13"),
+    "khuPhongID": ObjectId("5cea344b1dd7935a40363391"),
+    "loaiPhongID": ObjectId("5cea34a11dd7935a40363394"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5cea380e1dd7935a40363398"),
+    "anhChiTiet": [
+        "anh_tro_15.jpg",
+        "anh_tro_13.jpg",
+        "anh_tro_16.jpg"
+    ],
+    "tenPhong": "Phòng 01",
+    "anhChinh": "anh_tro_21.jpg",
+    "moTa": "Phòng rộng, mát mẻ",
+    "soDien": NumberInt(0),
+    "soNuoc": NumberInt(0),
+    "giaPhong": NumberInt(1200000),
+    "dKMang": true,
+    "status": true,
+    "homeFlag": true,
+    "hotFlag": false,
+    "tinhTrangPhongID": ObjectId("5c88669ffcd238559ca25d13"),
+    "khuPhongID": ObjectId("5cea34671dd7935a40363392"),
+    "loaiPhongID": ObjectId("5cea34c31dd7935a40363395"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5cea38388ae92470f4e3d6a3"),
+    "anhChiTiet": [
+        "anh_tro_15.jpg",
+        "anh_tro_13.jpg",
+        "anh_tro_16.jpg"
+    ],
+    "tenPhong": "Phòng 02",
+    "anhChinh": "anh_tro_21.jpg",
+    "moTa": "Phòng rộng, mát mẻ",
+    "soDien": NumberInt(86),
+    "soNuoc": NumberInt(10),
+    "giaPhong": NumberInt(1200000),
+    "dKMang": true,
+    "status": true,
+    "homeFlag": true,
+    "hotFlag": false,
+    "tinhTrangPhongID": ObjectId("5c8866b6fcd238559ca25d15"),
+    "khuPhongID": ObjectId("5cea34671dd7935a40363392"),
+    "loaiPhongID": ObjectId("5cea34c31dd7935a40363395"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5cea38498ae92470f4e3d6ae"),
+    "anhChiTiet": [
+        "anh_tro_15.jpg",
+        "anh_tro_13.jpg",
+        "anh_tro_16.jpg"
+    ],
+    "tenPhong": "Phòng 03",
+    "anhChinh": "anh_tro_21.jpg",
+    "moTa": "Phòng rộng, mát mẻ",
+    "soDien": NumberInt(0),
+    "soNuoc": NumberInt(0),
+    "giaPhong": NumberInt(1200000),
+    "dKMang": true,
+    "status": true,
+    "homeFlag": true,
+    "hotFlag": false,
+    "tinhTrangPhongID": ObjectId("5c8866b6fcd238559ca25d15"),
+    "khuPhongID": ObjectId("5cea34671dd7935a40363392"),
+    "loaiPhongID": ObjectId("5cea34c31dd7935a40363395"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5cea385f8ae92470f4e3d6b9"),
+    "anhChiTiet": [
+        "anh_tro_15.jpg",
+        "anh_tro_13.jpg",
+        "anh_tro_16.jpg"
+    ],
+    "tenPhong": "Phòng 04",
+    "anhChinh": "anh_tro_21.jpg",
+    "moTa": "Phòng rộng, mát mẻ",
+    "soDien": NumberInt(0),
+    "soNuoc": NumberInt(0),
+    "giaPhong": NumberInt(1200000),
+    "dKMang": true,
+    "status": true,
+    "homeFlag": true,
+    "hotFlag": false,
+    "tinhTrangPhongID": ObjectId("5c8866b6fcd238559ca25d15"),
+    "khuPhongID": ObjectId("5cea34671dd7935a40363392"),
+    "loaiPhongID": ObjectId("5cea34c31dd7935a40363395"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5cea38648ae92470f4e3d6bc"),
+    "anhChiTiet": [
+        "anh_tro_15.jpg",
+        "anh_tro_13.jpg",
+        "anh_tro_16.jpg"
+    ],
+    "tenPhong": "Phòng 05",
+    "anhChinh": "anh_tro_21.jpg",
+    "moTa": "Phòng rộng, mát mẻ",
+    "soDien": NumberInt(0),
+    "soNuoc": NumberInt(0),
+    "giaPhong": NumberInt(1200000),
+    "dKMang": true,
+    "status": true,
+    "homeFlag": true,
+    "hotFlag": false,
+    "tinhTrangPhongID": ObjectId("5c8866b6fcd238559ca25d15"),
+    "khuPhongID": ObjectId("5cea34671dd7935a40363392"),
+    "loaiPhongID": ObjectId("5cea34c31dd7935a40363395"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5cea386a8ae92470f4e3d6bf"),
+    "anhChiTiet": [
+        "anh_tro_15.jpg",
+        "anh_tro_13.jpg",
+        "anh_tro_16.jpg"
+    ],
+    "tenPhong": "Phòng 06",
+    "anhChinh": "anh_tro_21.jpg",
+    "moTa": "Phòng rộng, mát mẻ",
+    "soDien": NumberInt(0),
+    "soNuoc": NumberInt(0),
+    "giaPhong": NumberInt(1200000),
+    "dKMang": true,
+    "status": true,
+    "homeFlag": true,
+    "hotFlag": false,
+    "tinhTrangPhongID": ObjectId("5c8866b6fcd238559ca25d15"),
+    "khuPhongID": ObjectId("5cea34671dd7935a40363392"),
+    "loaiPhongID": ObjectId("5cea34c31dd7935a40363395"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5cea38728ae92470f4e3d6c4"),
+    "anhChiTiet": [
+        "anh_tro_15.jpg",
+        "anh_tro_13.jpg",
+        "anh_tro_16.jpg"
+    ],
+    "tenPhong": "Phòng 07",
+    "anhChinh": "anh_tro_21.jpg",
+    "moTa": "Phòng rộng, mát mẻ",
+    "soDien": NumberInt(0),
+    "soNuoc": NumberInt(0),
+    "giaPhong": NumberInt(1200000),
+    "dKMang": true,
+    "status": true,
+    "homeFlag": true,
+    "hotFlag": false,
+    "tinhTrangPhongID": ObjectId("5c8866b6fcd238559ca25d15"),
+    "khuPhongID": ObjectId("5cea34671dd7935a40363392"),
+    "loaiPhongID": ObjectId("5cea34c31dd7935a40363395"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5cea38778ae92470f4e3d6c7"),
+    "anhChiTiet": [
+        "anh_tro_15.jpg",
+        "anh_tro_13.jpg",
+        "anh_tro_16.jpg"
+    ],
+    "tenPhong": "Phòng 08",
+    "anhChinh": "anh_tro_21.jpg",
+    "moTa": "Phòng rộng, mát mẻ",
+    "soDien": NumberInt(0),
+    "soNuoc": NumberInt(0),
+    "giaPhong": NumberInt(1200000),
+    "dKMang": true,
+    "status": true,
+    "homeFlag": true,
+    "hotFlag": false,
+    "tinhTrangPhongID": ObjectId("5c88669ffcd238559ca25d13"),
+    "khuPhongID": ObjectId("5cea34671dd7935a40363392"),
+    "loaiPhongID": ObjectId("5cea34c31dd7935a40363395"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5cea387d8ae92470f4e3d6cb"),
+    "anhChiTiet": [
+        "anh_tro_15.jpg",
+        "anh_tro_13.jpg",
+        "anh_tro_16.jpg"
+    ],
+    "tenPhong": "Phòng 09",
+    "anhChinh": "anh_tro_21.jpg",
+    "moTa": "Phòng rộng, mát mẻ",
+    "soDien": NumberInt(0),
+    "soNuoc": NumberInt(0),
+    "giaPhong": NumberInt(1200000),
+    "dKMang": true,
+    "status": true,
+    "homeFlag": true,
+    "hotFlag": false,
+    "tinhTrangPhongID": ObjectId("5c8866b6fcd238559ca25d15"),
+    "khuPhongID": ObjectId("5cea34671dd7935a40363392"),
+    "loaiPhongID": ObjectId("5cea34c31dd7935a40363395"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5cea38838ae92470f4e3d6ce"),
+    "anhChiTiet": [
+        "anh_tro_15.jpg",
+        "anh_tro_13.jpg",
+        "anh_tro_16.jpg"
+    ],
+    "tenPhong": "Phòng 10",
+    "anhChinh": "anh_tro_21.jpg",
+    "moTa": "Phòng rộng, mát mẻ",
+    "soDien": NumberInt(0),
+    "soNuoc": NumberInt(0),
+    "giaPhong": NumberInt(1200000),
+    "dKMang": true,
+    "status": true,
+    "homeFlag": true,
+    "hotFlag": false,
+    "tinhTrangPhongID": ObjectId("5c88669ffcd238559ca25d13"),
+    "khuPhongID": ObjectId("5cea34671dd7935a40363392"),
+    "loaiPhongID": ObjectId("5cea34c31dd7935a40363395"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5cea388b8ae92470f4e3d6d2"),
+    "anhChiTiet": [
+        "anh_tro_15.jpg",
+        "anh_tro_13.jpg",
+        "anh_tro_16.jpg"
+    ],
+    "tenPhong": "Phòng 11",
+    "anhChinh": "anh_tro_21.jpg",
+    "moTa": "Phòng rộng, mát mẻ",
+    "soDien": NumberInt(0),
+    "soNuoc": NumberInt(0),
+    "giaPhong": NumberInt(1200000),
+    "dKMang": true,
+    "status": true,
+    "homeFlag": true,
+    "hotFlag": false,
+    "tinhTrangPhongID": ObjectId("5c88669ffcd238559ca25d13"),
+    "khuPhongID": ObjectId("5cea34671dd7935a40363392"),
+    "loaiPhongID": ObjectId("5cea34c31dd7935a40363395"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5cea38df1dd7935a40363399"),
+    "anhChiTiet": [
+        "anh_tro_11.jpg",
+        "anh_tro_8.jpg",
+        "anh_tro_1.jpg"
+    ],
+    "tenPhong": "Phòng 01",
+    "anhChinh": "anh_tro_9.jpg",
+    "moTa": "Phòng gác lửng, sạch sẽ",
+    "soDien": NumberInt(0),
+    "soNuoc": NumberInt(0),
+    "giaPhong": NumberInt(1500000),
+    "dKMang": true,
+    "status": true,
+    "homeFlag": true,
+    "hotFlag": false,
+    "tinhTrangPhongID": ObjectId("5c88669ffcd238559ca25d13"),
+    "khuPhongID": ObjectId("5cea34711dd7935a40363393"),
+    "loaiPhongID": ObjectId("5cea34cd1dd7935a40363396"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5cea39398ae92470f4e3d72b"),
+    "anhChiTiet": [
+        "anh_tro_11.jpg",
+        "anh_tro_8.jpg",
+        "anh_tro_1.jpg"
+    ],
+    "tenPhong": "Phòng 02",
+    "anhChinh": "anh_tro_9.jpg",
+    "moTa": "Phòng gác lửng, sạch sẽ",
+    "soDien": NumberInt(0),
+    "soNuoc": NumberInt(0),
+    "giaPhong": NumberInt(1500000),
+    "dKMang": true,
+    "status": true,
+    "homeFlag": true,
+    "hotFlag": false,
+    "tinhTrangPhongID": ObjectId("5c8866b6fcd238559ca25d15"),
+    "khuPhongID": ObjectId("5cea34711dd7935a40363393"),
+    "loaiPhongID": ObjectId("5cea34cd1dd7935a40363396"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5cea393f8ae92470f4e3d72e"),
+    "anhChiTiet": [
+        "anh_tro_11.jpg",
+        "anh_tro_8.jpg",
+        "anh_tro_1.jpg"
+    ],
+    "tenPhong": "Phòng 03",
+    "anhChinh": "anh_tro_9.jpg",
+    "moTa": "Phòng gác lửng, sạch sẽ",
+    "soDien": NumberInt(0),
+    "soNuoc": NumberInt(0),
+    "giaPhong": NumberInt(1500000),
+    "dKMang": true,
+    "status": true,
+    "homeFlag": true,
+    "hotFlag": false,
+    "tinhTrangPhongID": ObjectId("5c8866b6fcd238559ca25d15"),
+    "khuPhongID": ObjectId("5cea34711dd7935a40363393"),
+    "loaiPhongID": ObjectId("5cea34cd1dd7935a40363396"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5cea39448ae92470f4e3d731"),
+    "anhChiTiet": [
+        "anh_tro_11.jpg",
+        "anh_tro_8.jpg",
+        "anh_tro_1.jpg"
+    ],
+    "tenPhong": "Phòng 04",
+    "anhChinh": "anh_tro_9.jpg",
+    "moTa": "Phòng gác lửng, sạch sẽ",
+    "soDien": NumberInt(0),
+    "soNuoc": NumberInt(0),
+    "giaPhong": NumberInt(1500000),
+    "dKMang": true,
+    "status": true,
+    "homeFlag": true,
+    "hotFlag": false,
+    "tinhTrangPhongID": ObjectId("5c88669ffcd238559ca25d13"),
+    "khuPhongID": ObjectId("5cea34711dd7935a40363393"),
+    "loaiPhongID": ObjectId("5cea34cd1dd7935a40363396"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5cea394a8ae92470f4e3d735"),
+    "anhChiTiet": [
+        "anh_tro_11.jpg",
+        "anh_tro_8.jpg",
+        "anh_tro_1.jpg"
+    ],
+    "tenPhong": "Phòng 05",
+    "anhChinh": "anh_tro_9.jpg",
+    "moTa": "Phòng gác lửng, sạch sẽ",
+    "soDien": NumberInt(0),
+    "soNuoc": NumberInt(0),
+    "giaPhong": NumberInt(1500000),
+    "dKMang": true,
+    "status": true,
+    "homeFlag": true,
+    "hotFlag": false,
+    "tinhTrangPhongID": ObjectId("5c8866b6fcd238559ca25d15"),
+    "khuPhongID": ObjectId("5cea34711dd7935a40363393"),
+    "loaiPhongID": ObjectId("5cea34cd1dd7935a40363396"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5cea39508ae92470f4e3d73a"),
+    "anhChiTiet": [
+        "anh_tro_11.jpg",
+        "anh_tro_8.jpg",
+        "anh_tro_1.jpg"
+    ],
+    "tenPhong": "Phòng 06",
+    "anhChinh": "anh_tro_9.jpg",
+    "moTa": "Phòng gác lửng, sạch sẽ",
+    "soDien": NumberInt(0),
+    "soNuoc": NumberInt(0),
+    "giaPhong": NumberInt(1500000),
+    "dKMang": true,
+    "status": true,
+    "homeFlag": true,
+    "hotFlag": false,
+    "tinhTrangPhongID": ObjectId("5c8866b6fcd238559ca25d15"),
+    "khuPhongID": ObjectId("5cea34711dd7935a40363393"),
+    "loaiPhongID": ObjectId("5cea34cd1dd7935a40363396"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5cea39568ae92470f4e3d73d"),
+    "anhChiTiet": [
+        "anh_tro_11.jpg",
+        "anh_tro_8.jpg",
+        "anh_tro_1.jpg"
+    ],
+    "tenPhong": "Phòng 07",
+    "anhChinh": "anh_tro_9.jpg",
+    "moTa": "Phòng gác lửng, sạch sẽ",
+    "soDien": NumberInt(0),
+    "soNuoc": NumberInt(0),
+    "giaPhong": NumberInt(1500000),
+    "dKMang": true,
+    "status": true,
+    "homeFlag": true,
+    "hotFlag": false,
+    "tinhTrangPhongID": ObjectId("5c88669ffcd238559ca25d13"),
+    "khuPhongID": ObjectId("5cea34711dd7935a40363393"),
+    "loaiPhongID": ObjectId("5cea34cd1dd7935a40363396"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5cea395c8ae92470f4e3d740"),
+    "anhChiTiet": [
+        "anh_tro_11.jpg",
+        "anh_tro_8.jpg",
+        "anh_tro_1.jpg"
+    ],
+    "tenPhong": "Phòng 08",
+    "anhChinh": "anh_tro_9.jpg",
+    "moTa": "Phòng gác lửng, sạch sẽ",
+    "soDien": NumberInt(0),
+    "soNuoc": NumberInt(0),
+    "giaPhong": NumberInt(1500000),
+    "dKMang": true,
+    "status": true,
+    "homeFlag": true,
+    "hotFlag": false,
+    "tinhTrangPhongID": ObjectId("5c88669ffcd238559ca25d13"),
+    "khuPhongID": ObjectId("5cea34711dd7935a40363393"),
+    "loaiPhongID": ObjectId("5cea34cd1dd7935a40363396"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5cea39628ae92470f4e3d745"),
+    "anhChiTiet": [
+        "anh_tro_11.jpg",
+        "anh_tro_8.jpg",
+        "anh_tro_1.jpg"
+    ],
+    "tenPhong": "Phòng 09",
+    "anhChinh": "anh_tro_9.jpg",
+    "moTa": "Phòng gác lửng, sạch sẽ",
+    "soDien": NumberInt(0),
+    "soNuoc": NumberInt(0),
+    "giaPhong": NumberInt(1500000),
+    "dKMang": true,
+    "status": true,
+    "homeFlag": true,
+    "hotFlag": false,
+    "tinhTrangPhongID": ObjectId("5c88669ffcd238559ca25d13"),
+    "khuPhongID": ObjectId("5cea34711dd7935a40363393"),
+    "loaiPhongID": ObjectId("5cea34cd1dd7935a40363396"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5cea39698ae92470f4e3d749"),
+    "anhChiTiet": [
+        "anh_tro_11.jpg",
+        "anh_tro_8.jpg",
+        "anh_tro_1.jpg"
+    ],
+    "tenPhong": "Phòng 10",
+    "anhChinh": "anh_tro_9.jpg",
+    "moTa": "Phòng gác lửng, sạch sẽ",
+    "soDien": NumberInt(0),
+    "soNuoc": NumberInt(0),
+    "giaPhong": NumberInt(1500000),
+    "dKMang": true,
+    "status": true,
+    "homeFlag": true,
+    "hotFlag": false,
+    "tinhTrangPhongID": ObjectId("5c88669ffcd238559ca25d13"),
+    "khuPhongID": ObjectId("5cea34711dd7935a40363393"),
+    "loaiPhongID": ObjectId("5cea34cd1dd7935a40363396"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5cea39708ae92470f4e3d74c"),
+    "anhChiTiet": [
+        "anh_tro_11.jpg",
+        "anh_tro_8.jpg",
+        "anh_tro_1.jpg"
+    ],
+    "tenPhong": "Phòng 11",
+    "anhChinh": "anh_tro_9.jpg",
+    "moTa": "Phòng gác lửng, sạch sẽ",
+    "soDien": NumberInt(0),
+    "soNuoc": NumberInt(0),
+    "giaPhong": NumberInt(1500000),
+    "dKMang": true,
+    "status": true,
+    "homeFlag": true,
+    "hotFlag": false,
+    "tinhTrangPhongID": ObjectId("5c88669ffcd238559ca25d13"),
+    "khuPhongID": ObjectId("5cea34711dd7935a40363393"),
+    "loaiPhongID": ObjectId("5cea34cd1dd7935a40363396"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5cea39778ae92470f4e3d750"),
+    "anhChiTiet": [
+        "anh_tro_11.jpg",
+        "anh_tro_8.jpg",
+        "anh_tro_1.jpg"
+    ],
+    "tenPhong": "Phòng 12",
+    "anhChinh": "anh_tro_9.jpg",
+    "moTa": "Phòng gác lửng, sạch sẽ",
+    "soDien": NumberInt(0),
+    "soNuoc": NumberInt(0),
+    "giaPhong": NumberInt(1500000),
+    "dKMang": true,
+    "status": true,
+    "homeFlag": true,
+    "hotFlag": false,
+    "tinhTrangPhongID": ObjectId("5c88669ffcd238559ca25d13"),
+    "khuPhongID": ObjectId("5cea34711dd7935a40363393"),
+    "loaiPhongID": ObjectId("5cea34cd1dd7935a40363396"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5cea3d8f1dd7935a4036339b"),
+    "anhChiTiet": [
+        "anh_tro_5.jpg",
+        "anh_tro_6.jpg",
+        "anh_tro_11.jpg"
+    ],
+    "tenPhong": "Phòng 01",
+    "anhChinh": "anh_tro_18.jpg",
+    "moTa": "trọ đẹp, mới xây",
+    "soDien": NumberInt(0),
+    "soNuoc": NumberInt(0),
+    "giaPhong": NumberInt(1500000),
+    "dKMang": false,
+    "status": true,
+    "homeFlag": true,
+    "hotFlag": false,
+    "tinhTrangPhongID": ObjectId("5c88669ffcd238559ca25d13"),
+    "khuPhongID": ObjectId("5cea3d4f1dd7935a4036339a"),
+    "loaiPhongID": ObjectId("5cea34cd1dd7935a40363396"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5cea3da38ae92470f4e3e16d"),
+    "anhChiTiet": [
+        "anh_tro_5.jpg",
+        "anh_tro_6.jpg",
+        "anh_tro_11.jpg"
+    ],
+    "tenPhong": "Phòng 02",
+    "anhChinh": "anh_tro_18.jpg",
+    "moTa": "trọ đẹp, mới xây",
+    "soDien": NumberInt(0),
+    "soNuoc": NumberInt(0),
+    "giaPhong": NumberInt(1500000),
+    "dKMang": false,
+    "status": true,
+    "homeFlag": true,
+    "hotFlag": false,
+    "tinhTrangPhongID": ObjectId("5c88669ffcd238559ca25d13"),
+    "khuPhongID": ObjectId("5cea3d4f1dd7935a4036339a"),
+    "loaiPhongID": ObjectId("5cea34cd1dd7935a40363396"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5cea3da98ae92470f4e3e170"),
+    "anhChiTiet": [
+        "anh_tro_5.jpg",
+        "anh_tro_6.jpg",
+        "anh_tro_11.jpg"
+    ],
+    "tenPhong": "Phòng 03",
+    "anhChinh": "anh_tro_18.jpg",
+    "moTa": "trọ đẹp, mới xây",
+    "soDien": NumberInt(0),
+    "soNuoc": NumberInt(0),
+    "giaPhong": NumberInt(1500000),
+    "dKMang": false,
+    "status": true,
+    "homeFlag": true,
+    "hotFlag": false,
+    "tinhTrangPhongID": ObjectId("5c88669ffcd238559ca25d13"),
+    "khuPhongID": ObjectId("5cea3d4f1dd7935a4036339a"),
+    "loaiPhongID": ObjectId("5cea34cd1dd7935a40363396"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5cea3daf8ae92470f4e3e174"),
+    "anhChiTiet": [
+        "anh_tro_5.jpg",
+        "anh_tro_6.jpg",
+        "anh_tro_11.jpg"
+    ],
+    "tenPhong": "Phòng 04",
+    "anhChinh": "anh_tro_18.jpg",
+    "moTa": "trọ đẹp, mới xây",
+    "soDien": NumberInt(0),
+    "soNuoc": NumberInt(0),
+    "giaPhong": NumberInt(1500000),
+    "dKMang": false,
+    "status": true,
+    "homeFlag": true,
+    "hotFlag": false,
+    "tinhTrangPhongID": ObjectId("5c88669ffcd238559ca25d13"),
+    "khuPhongID": ObjectId("5cea3d4f1dd7935a4036339a"),
+    "loaiPhongID": ObjectId("5cea34cd1dd7935a40363396"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5cea3db58ae92470f4e3e177"),
+    "anhChiTiet": [
+        "anh_tro_5.jpg",
+        "anh_tro_6.jpg",
+        "anh_tro_11.jpg"
+    ],
+    "tenPhong": "Phòng 05",
+    "anhChinh": "anh_tro_18.jpg",
+    "moTa": "trọ đẹp, mới xây",
+    "soDien": NumberInt(0),
+    "soNuoc": NumberInt(0),
+    "giaPhong": NumberInt(1500000),
+    "dKMang": false,
+    "status": true,
+    "homeFlag": true,
+    "hotFlag": false,
+    "tinhTrangPhongID": ObjectId("5c88669ffcd238559ca25d13"),
+    "khuPhongID": ObjectId("5cea3d4f1dd7935a4036339a"),
+    "loaiPhongID": ObjectId("5cea34cd1dd7935a40363396"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5cea3dbc8ae92470f4e3e17a"),
+    "anhChiTiet": [
+        "anh_tro_5.jpg",
+        "anh_tro_6.jpg",
+        "anh_tro_11.jpg"
+    ],
+    "tenPhong": "Phòng 06",
+    "anhChinh": "anh_tro_18.jpg",
+    "moTa": "trọ đẹp, mới xây",
+    "soDien": NumberInt(0),
+    "soNuoc": NumberInt(0),
+    "giaPhong": NumberInt(1500000),
+    "dKMang": false,
+    "status": true,
+    "homeFlag": true,
+    "hotFlag": false,
+    "tinhTrangPhongID": ObjectId("5c88669ffcd238559ca25d13"),
+    "khuPhongID": ObjectId("5cea3d4f1dd7935a4036339a"),
+    "loaiPhongID": ObjectId("5cea34cd1dd7935a40363396"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5cea3dc28ae92470f4e3e17f"),
+    "anhChiTiet": [
+        "anh_tro_5.jpg",
+        "anh_tro_6.jpg",
+        "anh_tro_11.jpg"
+    ],
+    "tenPhong": "Phòng 07",
+    "anhChinh": "anh_tro_18.jpg",
+    "moTa": "trọ đẹp, mới xây",
+    "soDien": NumberInt(0),
+    "soNuoc": NumberInt(0),
+    "giaPhong": NumberInt(1500000),
+    "dKMang": false,
+    "status": true,
+    "homeFlag": true,
+    "hotFlag": false,
+    "tinhTrangPhongID": ObjectId("5c88669ffcd238559ca25d13"),
+    "khuPhongID": ObjectId("5cea3d4f1dd7935a4036339a"),
+    "loaiPhongID": ObjectId("5cea34cd1dd7935a40363396"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5cea3dc98ae92470f4e3e183"),
+    "anhChiTiet": [
+        "anh_tro_5.jpg",
+        "anh_tro_6.jpg",
+        "anh_tro_11.jpg"
+    ],
+    "tenPhong": "Phòng 08",
+    "anhChinh": "anh_tro_18.jpg",
+    "moTa": "trọ đẹp, mới xây",
+    "soDien": NumberInt(0),
+    "soNuoc": NumberInt(0),
+    "giaPhong": NumberInt(1500000),
+    "dKMang": false,
+    "status": true,
+    "homeFlag": true,
+    "hotFlag": false,
+    "tinhTrangPhongID": ObjectId("5c88669ffcd238559ca25d13"),
+    "khuPhongID": ObjectId("5cea3d4f1dd7935a4036339a"),
+    "loaiPhongID": ObjectId("5cea34cd1dd7935a40363396"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5cea3dd08ae92470f4e3e186"),
+    "anhChiTiet": [
+        "anh_tro_5.jpg",
+        "anh_tro_6.jpg",
+        "anh_tro_11.jpg"
+    ],
+    "tenPhong": "Phòng 09",
+    "anhChinh": "anh_tro_18.jpg",
+    "moTa": "trọ đẹp, mới xây",
+    "soDien": NumberInt(0),
+    "soNuoc": NumberInt(0),
+    "giaPhong": NumberInt(1500000),
+    "dKMang": false,
+    "status": true,
+    "homeFlag": true,
+    "hotFlag": false,
+    "tinhTrangPhongID": ObjectId("5c88669ffcd238559ca25d13"),
+    "khuPhongID": ObjectId("5cea3d4f1dd7935a4036339a"),
+    "loaiPhongID": ObjectId("5cea34cd1dd7935a40363396"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5cea3dd78ae92470f4e3e18b"),
+    "anhChiTiet": [
+        "anh_tro_5.jpg",
+        "anh_tro_6.jpg",
+        "anh_tro_11.jpg"
+    ],
+    "tenPhong": "Phòng 10",
+    "anhChinh": "anh_tro_18.jpg",
+    "moTa": "trọ đẹp, mới xây",
+    "soDien": NumberInt(0),
+    "soNuoc": NumberInt(0),
+    "giaPhong": NumberInt(1500000),
+    "dKMang": false,
+    "status": true,
+    "homeFlag": true,
+    "hotFlag": false,
+    "tinhTrangPhongID": ObjectId("5c88669ffcd238559ca25d13"),
+    "khuPhongID": ObjectId("5cea3d4f1dd7935a4036339a"),
+    "loaiPhongID": ObjectId("5cea34cd1dd7935a40363396"),
+    "__v": NumberInt(0)
+}

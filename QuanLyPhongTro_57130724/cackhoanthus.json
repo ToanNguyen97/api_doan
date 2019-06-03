@@ -1,0 +1,27 @@
+{
+    "_id": ObjectId("5c983b7d28aebc66041a45aa"),
+    "tenKhoanThu": "Tiền điện",
+    "giaKhoanThu": NumberInt(4500),
+    "donViTinh": "Kwh",
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5c983b9b28aebc66041a45ab"),
+    "tenKhoanThu": "Tiền nước",
+    "giaKhoanThu": NumberInt(17000),
+    "donViTinh": "Khối",
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5c983bf228aebc66041a45ac"),
+    "tenKhoanThu": "Tiền mạng",
+    "giaKhoanThu": NumberInt(56000),
+    "donViTinh": "Tháng",
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5c9b3dc77e5bed22acc4811a"),
+    "tenKhoanThu": "Tiền phòng",
+    "donViTinh": "Tháng",
+    "__v": NumberInt(0)
+}

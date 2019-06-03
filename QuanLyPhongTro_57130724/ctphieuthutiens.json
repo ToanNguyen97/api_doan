@@ -1,0 +1,734 @@
+{
+    "_id": ObjectId("5c9c72ffb2abc558b8feb2e5"),
+    "phieuThuID": "PTP01KV01012019",
+    "cacKhoanThuID": ObjectId("5c9b3dc77e5bed22acc4811a"),
+    "donGia": NumberInt(1000000),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5c9c7300b2abc558b8feb2e6"),
+    "phieuThuID": "PTP01KV01012019",
+    "chiSoCu": NumberInt(0),
+    "chiSoMoi": NumberInt(82),
+    "donGia": NumberInt(5000),
+    "cacKhoanThuID": ObjectId("5c983b7d28aebc66041a45aa"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5c9c7300b2abc558b8feb2e7"),
+    "phieuThuID": "PTP01KV01012019",
+    "chiSoCu": NumberInt(0),
+    "chiSoMoi": NumberInt(11),
+    "donGia": NumberInt(17000),
+    "cacKhoanThuID": ObjectId("5c983b9b28aebc66041a45ab"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5c9c73bfb2abc558b8feb2e8"),
+    "phieuThuID": "PTP02KV01012019",
+    "cacKhoanThuID": ObjectId("5c9b3dc77e5bed22acc4811a"),
+    "donGia": NumberInt(1250000),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5c9c73bfb2abc558b8feb2e9"),
+    "phieuThuID": "PTP02KV01012019",
+    "chiSoCu": NumberInt(0),
+    "chiSoMoi": NumberInt(72),
+    "donGia": NumberInt(5000),
+    "cacKhoanThuID": ObjectId("5c983b7d28aebc66041a45aa"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5c9c73bfb2abc558b8feb2ea"),
+    "phieuThuID": "PTP02KV01012019",
+    "chiSoCu": NumberInt(0),
+    "chiSoMoi": NumberInt(10),
+    "donGia": NumberInt(17000),
+    "cacKhoanThuID": ObjectId("5c983b9b28aebc66041a45ab"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5c9c73bfb2abc558b8feb2eb"),
+    "phieuThuID": "PTP02KV01012019",
+    "donGia": NumberInt(55000),
+    "cacKhoanThuID": ObjectId("5c983bf228aebc66041a45ac"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5c9c740cb2abc558b8feb2ef"),
+    "phieuThuID": "PTP01KV02012019",
+    "cacKhoanThuID": ObjectId("5c9b3dc77e5bed22acc4811a"),
+    "donGia": NumberInt(1300000),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5c9c740cb2abc558b8feb2f0"),
+    "phieuThuID": "PTP01KV02012019",
+    "chiSoCu": NumberInt(0),
+    "chiSoMoi": NumberInt(91),
+    "donGia": NumberInt(5000),
+    "cacKhoanThuID": ObjectId("5c983b7d28aebc66041a45aa"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5c9c740cb2abc558b8feb2f1"),
+    "phieuThuID": "PTP01KV02012019",
+    "chiSoCu": NumberInt(0),
+    "chiSoMoi": NumberInt(11),
+    "donGia": NumberInt(17000),
+    "cacKhoanThuID": ObjectId("5c983b9b28aebc66041a45ab"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5c9c740cb2abc558b8feb2f2"),
+    "phieuThuID": "PTP01KV02012019",
+    "donGia": NumberInt(55000),
+    "cacKhoanThuID": ObjectId("5c983bf228aebc66041a45ac"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5c9c7460dd7a57439420aa5f"),
+    "phieuThuID": "PTP01KV01022019",
+    "cacKhoanThuID": ObjectId("5c9b3dc77e5bed22acc4811a"),
+    "donGia": NumberInt(1000000),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5c9c7460dd7a57439420aa60"),
+    "phieuThuID": "PTP01KV01022019",
+    "chiSoCu": NumberInt(82),
+    "chiSoMoi": NumberInt(154),
+    "donGia": NumberInt(5000),
+    "cacKhoanThuID": ObjectId("5c983b7d28aebc66041a45aa"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5c9c7460dd7a57439420aa61"),
+    "phieuThuID": "PTP01KV01022019",
+    "chiSoCu": NumberInt(11),
+    "chiSoMoi": NumberInt(20),
+    "donGia": NumberInt(17000),
+    "cacKhoanThuID": ObjectId("5c983b9b28aebc66041a45ab"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5c9c7475dd7a57439420aa62"),
+    "phieuThuID": "PTP02KV01022019",
+    "cacKhoanThuID": ObjectId("5c9b3dc77e5bed22acc4811a"),
+    "donGia": NumberInt(1250000),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5c9c7475dd7a57439420aa63"),
+    "phieuThuID": "PTP02KV01022019",
+    "chiSoCu": NumberInt(72),
+    "chiSoMoi": NumberInt(130),
+    "donGia": NumberInt(5000),
+    "cacKhoanThuID": ObjectId("5c983b7d28aebc66041a45aa"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5c9c7475dd7a57439420aa64"),
+    "phieuThuID": "PTP02KV01022019",
+    "chiSoCu": NumberInt(10),
+    "chiSoMoi": NumberInt(19),
+    "donGia": NumberInt(17000),
+    "cacKhoanThuID": ObjectId("5c983b9b28aebc66041a45ab"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5c9c7475dd7a57439420aa65"),
+    "phieuThuID": "PTP02KV01022019",
+    "donGia": NumberInt(55000),
+    "cacKhoanThuID": ObjectId("5c983bf228aebc66041a45ac"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5c9c7489dd7a57439420aa66"),
+    "phieuThuID": "PTP03KV01022019",
+    "cacKhoanThuID": ObjectId("5c9b3dc77e5bed22acc4811a"),
+    "donGia": NumberInt(1500000),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5c9c7489dd7a57439420aa67"),
+    "phieuThuID": "PTP03KV01022019",
+    "chiSoCu": NumberInt(76),
+    "chiSoMoi": NumberInt(155),
+    "donGia": NumberInt(5000),
+    "cacKhoanThuID": ObjectId("5c983b7d28aebc66041a45aa"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5c9c7489dd7a57439420aa68"),
+    "phieuThuID": "PTP03KV01022019",
+    "chiSoCu": NumberInt(9),
+    "chiSoMoi": NumberInt(16),
+    "donGia": NumberInt(17000),
+    "cacKhoanThuID": ObjectId("5c983b9b28aebc66041a45ab"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5c9c749cdd7a57439420aa69"),
+    "phieuThuID": "PTP01KV02022019",
+    "cacKhoanThuID": ObjectId("5c9b3dc77e5bed22acc4811a"),
+    "donGia": NumberInt(1300000),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5c9c749cdd7a57439420aa6a"),
+    "phieuThuID": "PTP01KV02022019",
+    "chiSoCu": NumberInt(91),
+    "chiSoMoi": NumberInt(183),
+    "donGia": NumberInt(5000),
+    "cacKhoanThuID": ObjectId("5c983b7d28aebc66041a45aa"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5c9c749cdd7a57439420aa6b"),
+    "phieuThuID": "PTP01KV02022019",
+    "chiSoCu": NumberInt(11),
+    "chiSoMoi": NumberInt(25),
+    "donGia": NumberInt(17000),
+    "cacKhoanThuID": ObjectId("5c983b9b28aebc66041a45ab"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5c9c749cdd7a57439420aa6c"),
+    "phieuThuID": "PTP01KV02022019",
+    "donGia": NumberInt(55000),
+    "cacKhoanThuID": ObjectId("5c983bf228aebc66041a45ac"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5c9c7510501fad051cae51e7"),
+    "phieuThuID": "PTP01KV01032019",
+    "cacKhoanThuID": ObjectId("5c9b3dc77e5bed22acc4811a"),
+    "donGia": NumberInt(1000000),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5c9c7510501fad051cae51e8"),
+    "phieuThuID": "PTP01KV01032019",
+    "chiSoCu": NumberInt(154),
+    "chiSoMoi": NumberInt(199),
+    "donGia": NumberInt(5000),
+    "cacKhoanThuID": ObjectId("5c983b7d28aebc66041a45aa"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5c9c7510501fad051cae51e9"),
+    "phieuThuID": "PTP01KV01032019",
+    "chiSoCu": NumberInt(20),
+    "chiSoMoi": NumberInt(27),
+    "donGia": NumberInt(17000),
+    "cacKhoanThuID": ObjectId("5c983b9b28aebc66041a45ab"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5c9c754e501fad051cae51ea"),
+    "phieuThuID": "PTP02KV01032019",
+    "cacKhoanThuID": ObjectId("5c9b3dc77e5bed22acc4811a"),
+    "donGia": NumberInt(1250000),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5c9c754e501fad051cae51eb"),
+    "phieuThuID": "PTP02KV01032019",
+    "chiSoCu": NumberInt(130),
+    "chiSoMoi": NumberInt(200),
+    "donGia": NumberInt(5000),
+    "cacKhoanThuID": ObjectId("5c983b7d28aebc66041a45aa"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5c9c754e501fad051cae51ec"),
+    "phieuThuID": "PTP02KV01032019",
+    "chiSoCu": NumberInt(19),
+    "chiSoMoi": NumberInt(29),
+    "donGia": NumberInt(17000),
+    "cacKhoanThuID": ObjectId("5c983b9b28aebc66041a45ab"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5c9c754e501fad051cae51ed"),
+    "phieuThuID": "PTP02KV01032019",
+    "donGia": NumberInt(55000),
+    "cacKhoanThuID": ObjectId("5c983bf228aebc66041a45ac"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5c9c756e501fad051cae51f1"),
+    "phieuThuID": "PTP01KV02032019",
+    "cacKhoanThuID": ObjectId("5c9b3dc77e5bed22acc4811a"),
+    "donGia": NumberInt(1300000),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5c9c756e501fad051cae51f2"),
+    "phieuThuID": "PTP01KV02032019",
+    "chiSoCu": NumberInt(183),
+    "chiSoMoi": NumberInt(263),
+    "donGia": NumberInt(5000),
+    "cacKhoanThuID": ObjectId("5c983b7d28aebc66041a45aa"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5c9c756e501fad051cae51f3"),
+    "phieuThuID": "PTP01KV02032019",
+    "chiSoCu": NumberInt(25),
+    "chiSoMoi": NumberInt(31),
+    "donGia": NumberInt(17000),
+    "cacKhoanThuID": ObjectId("5c983b9b28aebc66041a45ab"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5c9c756e501fad051cae51f4"),
+    "phieuThuID": "PTP01KV02032019",
+    "donGia": NumberInt(55000),
+    "cacKhoanThuID": ObjectId("5c983bf228aebc66041a45ac"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5c9c79052f27865884165be1"),
+    "phieuThuID": "PTP03KV01032019",
+    "cacKhoanThuID": ObjectId("5c9b3dc77e5bed22acc4811a"),
+    "donGia": NumberInt(1500000),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5c9c79052f27865884165be2"),
+    "phieuThuID": "PTP03KV01032019",
+    "chiSoCu": NumberInt(222),
+    "chiSoMoi": NumberInt(240),
+    "donGia": NumberInt(5000),
+    "cacKhoanThuID": ObjectId("5c983b7d28aebc66041a45aa"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5c9c79052f27865884165be3"),
+    "phieuThuID": "PTP03KV01032019",
+    "chiSoCu": NumberInt(25),
+    "chiSoMoi": NumberInt(120),
+    "donGia": NumberInt(17000),
+    "cacKhoanThuID": ObjectId("5c983b9b28aebc66041a45ab"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5ca165ee4765db2a700ae655"),
+    "phieuThuID": "PTP01KV01042019",
+    "cacKhoanThuID": ObjectId("5c9b3dc77e5bed22acc4811a"),
+    "donGia": NumberInt(1000000),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5ca165ee4765db2a700ae656"),
+    "phieuThuID": "PTP01KV01042019",
+    "chiSoCu": NumberInt(199),
+    "chiSoMoi": NumberInt(256),
+    "donGia": NumberInt(5000),
+    "cacKhoanThuID": ObjectId("5c983b7d28aebc66041a45aa"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5ca165ee4765db2a700ae657"),
+    "phieuThuID": "PTP01KV01042019",
+    "chiSoCu": NumberInt(27),
+    "chiSoMoi": NumberInt(34),
+    "donGia": NumberInt(17000),
+    "cacKhoanThuID": ObjectId("5c983b9b28aebc66041a45ab"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5ca166438eba6842980194b8"),
+    "phieuThuID": "PTP03KV01042019",
+    "cacKhoanThuID": ObjectId("5c9b3dc77e5bed22acc4811a"),
+    "donGia": NumberInt(1500000),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5ca166438eba6842980194b9"),
+    "phieuThuID": "PTP03KV01042019",
+    "chiSoCu": NumberInt(240),
+    "chiSoMoi": NumberInt(351),
+    "donGia": NumberInt(5000),
+    "cacKhoanThuID": ObjectId("5c983b7d28aebc66041a45aa"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5ca166438eba6842980194ba"),
+    "phieuThuID": "PTP03KV01042019",
+    "chiSoCu": NumberInt(120),
+    "chiSoMoi": NumberInt(142),
+    "donGia": NumberInt(17000),
+    "cacKhoanThuID": ObjectId("5c983b9b28aebc66041a45ab"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5ca172920cbb8363f83cc2a6"),
+    "phieuThuID": "PTP01KV02042019",
+    "cacKhoanThuID": ObjectId("5c9b3dc77e5bed22acc4811a"),
+    "donGia": NumberInt(1300000),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5ca172920cbb8363f83cc2a7"),
+    "phieuThuID": "PTP01KV02042019",
+    "chiSoCu": NumberInt(341),
+    "chiSoMoi": NumberInt(366),
+    "donGia": NumberInt(5000),
+    "cacKhoanThuID": ObjectId("5c983b7d28aebc66041a45aa"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5ca172920cbb8363f83cc2a8"),
+    "phieuThuID": "PTP01KV02042019",
+    "chiSoCu": NumberInt(42),
+    "chiSoMoi": NumberInt(45),
+    "donGia": NumberInt(17000),
+    "cacKhoanThuID": ObjectId("5c983b9b28aebc66041a45ab"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5ca172920cbb8363f83cc2a9"),
+    "phieuThuID": "PTP01KV02042019",
+    "donGia": NumberInt(55000),
+    "cacKhoanThuID": ObjectId("5c983bf228aebc66041a45ac"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5ca174f326cc431d34d3a9fa"),
+    "phieuThuID": "PTP02KV01042019",
+    "cacKhoanThuID": ObjectId("5c9b3dc77e5bed22acc4811a"),
+    "donGia": NumberInt(1250000),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5ca174f326cc431d34d3a9fb"),
+    "phieuThuID": "PTP02KV01042019",
+    "chiSoCu": NumberInt(200),
+    "chiSoMoi": NumberInt(263),
+    "donGia": NumberInt(5000),
+    "cacKhoanThuID": ObjectId("5c983b7d28aebc66041a45aa"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5ca174f326cc431d34d3a9fc"),
+    "phieuThuID": "PTP02KV01042019",
+    "chiSoCu": NumberInt(29),
+    "chiSoMoi": NumberInt(53),
+    "donGia": NumberInt(17000),
+    "cacKhoanThuID": ObjectId("5c983b9b28aebc66041a45ab"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5ca174f326cc431d34d3a9fd"),
+    "phieuThuID": "PTP02KV01042019",
+    "donGia": NumberInt(55000),
+    "cacKhoanThuID": ObjectId("5c983bf228aebc66041a45ac"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5cad469fec6d9c3af8c37b4f"),
+    "phieuThuID": "PTP04KV01Invalid date",
+    "cacKhoanThuID": ObjectId("5c9b3dc77e5bed22acc4811a"),
+    "donGia": NumberInt(1200000),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5cad469fec6d9c3af8c37b50"),
+    "phieuThuID": "PTP04KV01Invalid date",
+    "chiSoCu": NumberInt(0),
+    "chiSoMoi": NumberInt(86),
+    "donGia": NumberInt(5000),
+    "cacKhoanThuID": ObjectId("5c983b7d28aebc66041a45aa"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5cad469fec6d9c3af8c37b51"),
+    "phieuThuID": "PTP04KV01Invalid date",
+    "chiSoCu": NumberInt(0),
+    "chiSoMoi": NumberInt(7),
+    "donGia": NumberInt(17000),
+    "cacKhoanThuID": ObjectId("5c983b9b28aebc66041a45ab"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5cad4714ec6d9c3af8c37b52"),
+    "phieuThuID": "PTP04KV01Invalid date",
+    "cacKhoanThuID": ObjectId("5c9b3dc77e5bed22acc4811a"),
+    "donGia": NumberInt(1200000),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5cad4714ec6d9c3af8c37b53"),
+    "phieuThuID": "PTP04KV01Invalid date",
+    "chiSoCu": NumberInt(0),
+    "chiSoMoi": NumberInt(86),
+    "donGia": NumberInt(5000),
+    "cacKhoanThuID": ObjectId("5c983b7d28aebc66041a45aa"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5cad4714ec6d9c3af8c37b54"),
+    "phieuThuID": "PTP04KV01Invalid date",
+    "chiSoCu": NumberInt(0),
+    "chiSoMoi": NumberInt(7),
+    "donGia": NumberInt(17000),
+    "cacKhoanThuID": ObjectId("5c983b9b28aebc66041a45ab"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5cad4755ca11a34354e5d757"),
+    "phieuThuID": "PTP04KV01Invalid date",
+    "cacKhoanThuID": ObjectId("5c9b3dc77e5bed22acc4811a"),
+    "donGia": NumberInt(1200000),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5cad4755ca11a34354e5d758"),
+    "phieuThuID": "PTP04KV01Invalid date",
+    "chiSoCu": NumberInt(0),
+    "chiSoMoi": NumberInt(86),
+    "donGia": NumberInt(5000),
+    "cacKhoanThuID": ObjectId("5c983b7d28aebc66041a45aa"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5cad4755ca11a34354e5d759"),
+    "phieuThuID": "PTP04KV01Invalid date",
+    "chiSoCu": NumberInt(0),
+    "chiSoMoi": NumberInt(7),
+    "donGia": NumberInt(17000),
+    "cacKhoanThuID": ObjectId("5c983b9b28aebc66041a45ab"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5cad4784d7e4ad0f5835d7ac"),
+    "phieuThuID": "PTP04KV01012019",
+    "cacKhoanThuID": ObjectId("5c9b3dc77e5bed22acc4811a"),
+    "donGia": NumberInt(1200000),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5cad4784d7e4ad0f5835d7ad"),
+    "phieuThuID": "PTP04KV01012019",
+    "chiSoCu": NumberInt(0),
+    "chiSoMoi": NumberInt(86),
+    "donGia": NumberInt(5000),
+    "cacKhoanThuID": ObjectId("5c983b7d28aebc66041a45aa"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5cad4784d7e4ad0f5835d7ae"),
+    "phieuThuID": "PTP04KV01012019",
+    "chiSoCu": NumberInt(0),
+    "chiSoMoi": NumberInt(7),
+    "donGia": NumberInt(17000),
+    "cacKhoanThuID": ObjectId("5c983b9b28aebc66041a45ab"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5cad47abe9dc435664d62c40"),
+    "phieuThuID": "PTP04KV01022019",
+    "cacKhoanThuID": ObjectId("5c9b3dc77e5bed22acc4811a"),
+    "donGia": NumberInt(1200000),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5cad47abe9dc435664d62c41"),
+    "phieuThuID": "PTP04KV01022019",
+    "chiSoCu": NumberInt(86),
+    "chiSoMoi": NumberInt(149),
+    "donGia": NumberInt(5000),
+    "cacKhoanThuID": ObjectId("5c983b7d28aebc66041a45aa"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5cad47abe9dc435664d62c42"),
+    "phieuThuID": "PTP04KV01022019",
+    "chiSoCu": NumberInt(7),
+    "chiSoMoi": NumberInt(16),
+    "donGia": NumberInt(17000),
+    "cacKhoanThuID": ObjectId("5c983b9b28aebc66041a45ab"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5cad4953efb5b813409d5e73"),
+    "phieuThuID": "PTP04KV01032019",
+    "cacKhoanThuID": ObjectId("5c9b3dc77e5bed22acc4811a"),
+    "donGia": NumberInt(1200000),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5cad4953efb5b813409d5e74"),
+    "phieuThuID": "PTP04KV01032019",
+    "chiSoCu": NumberInt(149),
+    "chiSoMoi": NumberInt(243),
+    "donGia": NumberInt(5000),
+    "cacKhoanThuID": ObjectId("5c983b7d28aebc66041a45aa"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5cad4953efb5b813409d5e75"),
+    "phieuThuID": "PTP04KV01032019",
+    "chiSoCu": NumberInt(16),
+    "chiSoMoi": NumberInt(25),
+    "donGia": NumberInt(17000),
+    "cacKhoanThuID": ObjectId("5c983b9b28aebc66041a45ab"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5cad4953efb5b813409d5e76"),
+    "phieuThuID": "PTP04KV01032019",
+    "donGia": NumberInt(55000),
+    "cacKhoanThuID": ObjectId("5c983bf228aebc66041a45ac"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5cad4978751f73509862a37b"),
+    "phieuThuID": "PTP04KV01042019",
+    "cacKhoanThuID": ObjectId("5c9b3dc77e5bed22acc4811a"),
+    "donGia": NumberInt(1200000),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5cad4978751f73509862a37c"),
+    "phieuThuID": "PTP04KV01042019",
+    "chiSoCu": NumberInt(243),
+    "chiSoMoi": NumberInt(323),
+    "donGia": NumberInt(5000),
+    "cacKhoanThuID": ObjectId("5c983b7d28aebc66041a45aa"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5cad4978751f73509862a37d"),
+    "phieuThuID": "PTP04KV01042019",
+    "chiSoCu": NumberInt(25),
+    "chiSoMoi": NumberInt(32),
+    "donGia": NumberInt(17000),
+    "cacKhoanThuID": ObjectId("5c983b9b28aebc66041a45ab"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5cad4978751f73509862a37e"),
+    "phieuThuID": "PTP04KV01042019",
+    "donGia": NumberInt(55000),
+    "cacKhoanThuID": ObjectId("5c983bf228aebc66041a45ac"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5cc116f5aef0e28a3865653d"),
+    "phieuThuID": "PTP05KV01042019",
+    "cacKhoanThuID": ObjectId("5c9b3dc77e5bed22acc4811a"),
+    "donGia": NumberInt(1500000),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5cc116f5aef0e28a3865653e"),
+    "phieuThuID": "PTP05KV01042019",
+    "chiSoCu": NumberInt(0),
+    "chiSoMoi": NumberInt(76),
+    "donGia": NumberInt(5000),
+    "cacKhoanThuID": ObjectId("5c983b7d28aebc66041a45aa"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5cc116f5aef0e28a3865653f"),
+    "phieuThuID": "PTP05KV01042019",
+    "chiSoCu": NumberInt(0),
+    "chiSoMoi": NumberInt(12),
+    "donGia": NumberInt(17000),
+    "cacKhoanThuID": ObjectId("5c983b9b28aebc66041a45ab"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5cceb74231b0c92688de95ff"),
+    "phieuThuID": "PTP02KV01052019",
+    "cacKhoanThuID": ObjectId("5c9b3dc77e5bed22acc4811a"),
+    "donGia": NumberInt(1250000),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5cceb74231b0c92688de9600"),
+    "phieuThuID": "PTP02KV01052019",
+    "chiSoCu": NumberInt(263),
+    "chiSoMoi": NumberInt(351),
+    "donGia": NumberInt(5000),
+    "cacKhoanThuID": ObjectId("5c983b7d28aebc66041a45aa"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5cceb74231b0c92688de9601"),
+    "phieuThuID": "PTP02KV01052019",
+    "chiSoCu": NumberInt(53),
+    "chiSoMoi": NumberInt(60),
+    "donGia": NumberInt(17000),
+    "cacKhoanThuID": ObjectId("5c983b9b28aebc66041a45ab"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5cceb74231b0c92688de9602"),
+    "phieuThuID": "PTP02KV01052019",
+    "donGia": NumberInt(55000),
+    "cacKhoanThuID": ObjectId("5c983bf228aebc66041a45ac"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5cea50d8de375472d8de9261"),
+    "phieuThuID": "PTP02KV02052019",
+    "cacKhoanThuID": ObjectId("5c9b3dc77e5bed22acc4811a"),
+    "donGia": NumberInt(1200000),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5cea50d8de375472d8de9262"),
+    "phieuThuID": "PTP02KV02052019",
+    "chiSoCu": NumberInt(0),
+    "chiSoMoi": NumberInt(86),
+    "donGia": NumberInt(5000),
+    "cacKhoanThuID": ObjectId("5c983b7d28aebc66041a45aa"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5cea50d8de375472d8de9263"),
+    "phieuThuID": "PTP02KV02052019",
+    "chiSoCu": NumberInt(0),
+    "chiSoMoi": NumberInt(10),
+    "donGia": NumberInt(17000),
+    "cacKhoanThuID": ObjectId("5c983b9b28aebc66041a45ab"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5cea50d8de375472d8de9264"),
+    "phieuThuID": "PTP02KV02052019",
+    "donGia": NumberInt(56000),
+    "cacKhoanThuID": ObjectId("5c983bf228aebc66041a45ac"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5cee685080239e2c8c56ef75"),
+    "phieuThuID": "PTP01KV01052019",
+    "cacKhoanThuID": ObjectId("5c9b3dc77e5bed22acc4811a"),
+    "donGia": NumberInt(1000000),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5cee685180239e2c8c56ef76"),
+    "phieuThuID": "PTP01KV01052019",
+    "chiSoCu": NumberInt(0),
+    "chiSoMoi": NumberInt(100),
+    "donGia": NumberInt(4500),
+    "cacKhoanThuID": ObjectId("5c983b7d28aebc66041a45aa"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5cee685180239e2c8c56ef77"),
+    "phieuThuID": "PTP01KV01052019",
+    "chiSoCu": NumberInt(0),
+    "chiSoMoi": NumberInt(5),
+    "donGia": NumberInt(17000),
+    "cacKhoanThuID": ObjectId("5c983b9b28aebc66041a45ab"),
+    "__v": NumberInt(0)
+}

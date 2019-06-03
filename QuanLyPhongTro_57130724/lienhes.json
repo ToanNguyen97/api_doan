@@ -1,0 +1,16 @@
+{
+    "_id": ObjectId("5ced35ca93f50204608e1467"),
+    "phongID": ObjectId("5cea38388ae92470f4e3d6a3"),
+    "hoTenNguoiLienHe": "Võ Văn Sang",
+    "email": "sangvo@gmail.com",
+    "soDienThoai": "0123456987",
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5cef3c9689faa5422002465d"),
+    "phongID": ObjectId("5cea385f8ae92470f4e3d6b9"),
+    "hoTenNguoiLienHe": "a",
+    "email": "doanthanhthaopy@gmail.com",
+    "soDienThoai": "2131231312",
+    "__v": NumberInt(0)
+}

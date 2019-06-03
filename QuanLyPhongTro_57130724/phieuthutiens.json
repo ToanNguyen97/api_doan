@@ -1,0 +1,18 @@
+{
+    "_id": "PTP02KV02052019",
+    "ngayLap": ISODate("2019-05-26T08:39:52.044+00:00"),
+    "phongID": ObjectId("5cea38388ae92470f4e3d6a3"),
+    "ngayHetHan": ISODate("2019-06-10T17:00:00.000+00:00"),
+    "moTa": "nhớ đóng sớm nhé",
+    "tinhTrangPhieuThu": "quá hạn",
+    "__v": NumberInt(0)
+}
+{
+    "_id": "PTP01KV01052019",
+    "ngayLap": ISODate("2019-05-29T11:09:04.614+00:00"),
+    "phongID": ObjectId("5cea36c01dd7935a40363397"),
+    "ngayHetHan": ISODate("2019-06-10T17:00:00.000+00:00"),
+    "moTa": "nhớ đóng",
+    "tinhTrangPhieuThu": "đã đóng",
+    "__v": NumberInt(0)
+}

@@ -1,0 +1,36 @@
+{
+    "_id": ObjectId("5cea344b1dd7935a40363391"),
+    "tenKhuPhong": "Khu Vực 01",
+    "moTa": "Đúc mê, mát mẻ",
+    "anhKhuPhong": "anhkhuphong",
+    "createdAt": ISODate("2019-05-26T06:38:03.444+00:00"),
+    "updatedAt": ISODate("2019-05-26T06:38:47.536+00:00"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5cea34671dd7935a40363392"),
+    "tenKhuPhong": "Khu Vực 02",
+    "moTa": "Hệ thống camera an toàn",
+    "anhKhuPhong": "anhkhuphong",
+    "createdAt": ISODate("2019-05-26T06:38:31.211+00:00"),
+    "updatedAt": ISODate("2019-05-26T06:38:52.803+00:00"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5cea34711dd7935a40363393"),
+    "tenKhuPhong": "Khu Vực 03",
+    "moTa": "Mát mẻ",
+    "anhKhuPhong": "anhkhuphong",
+    "createdAt": ISODate("2019-05-26T06:38:41.305+00:00"),
+    "updatedAt": ISODate("2019-05-26T06:38:56.160+00:00"),
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5cea3d4f1dd7935a4036339a"),
+    "tenKhuPhong": "Khu Vực 04",
+    "moTa": "Khu trọ đẹp",
+    "anhKhuPhong": "anhkhuphong",
+    "createdAt": ISODate("2019-05-26T07:16:31.407+00:00"),
+    "updatedAt": ISODate("2019-05-26T07:16:31.407+00:00"),
+    "__v": NumberInt(0)
+}

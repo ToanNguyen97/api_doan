@@ -1,0 +1,20 @@
+{
+    "_id": ObjectId("5c88669ffcd238559ca25d13"),
+    "tenTinhTrangPhong": "Còn trống",
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5c8866adfcd238559ca25d14"),
+    "tenTinhTrangPhong": "Đã thuê",
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5c8866b6fcd238559ca25d15"),
+    "tenTinhTrangPhong": "Cho ở ghép",
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5c8866cafcd238559ca25d16"),
+    "tenTinhTrangPhong": "Đang sửa",
+    "__v": NumberInt(0)
+}

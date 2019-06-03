@@ -176,7 +176,8 @@ const loader = exports.loader = async function (server) {
     info: {
       title: 'Test API',
       version: Pack.version
-    }
+    },
+    'documentationPath': '/api/documentation'
   };
   await server.register([
   /* Plugin lib */
@@ -5693,7 +5694,7 @@ const hoanTatPayPal = async (request, h) => {
 
 const BaoHetHanPT = async (request, h) => {
   try {
-    for (let item of request.dsPT) {
+    for (let item of request.payload.dsPT) {
       let phieuthuMail = await PhieuThuTien.findById({
         _id: item._id
       }).populate(['phongID', 'dsCTPT']);
@@ -5704,7 +5705,11 @@ const BaoHetHanPT = async (request, h) => {
       };
       let stringEmail = await GetEmailOfKhach(phieuthuMail.phongID);
 
-      _sendMail2.default.SenMail(options, stringEmail);
+      if (stringEmail && stringEmail != null) {
+        _sendMail2.default.SenMail(options, stringEmail);
+      } else {
+        console.log('phòng không có khách');
+      }
     }
 
     return true;
@@ -8473,7 +8478,7 @@ module.exports = {"name":"quanlyphongtro","version":"1.0.0","description":"Đồ
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! F:\DoAnTotNghiep\DoAnTotNghiep_Toan\api\app.js */"./app.js");
+module.exports = __webpack_require__(/*! F:\DoAnTotNghiep\api_doan\app.js */"./app.js");
 
 
 /***/ }),

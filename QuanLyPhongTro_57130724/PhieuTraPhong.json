@@ -1,0 +1,7 @@
+{
+    "_id": ObjectId("5ced35f893f50204608e1468"),
+    "phongID": ObjectId("5cea38388ae92470f4e3d6a3"),
+    "khachThueID": ObjectId("5cea4840646eb142c429e7ab"),
+    "ngayLap": ISODate("2019-05-28T13:21:59.768+00:00"),
+    "__v": NumberInt(0)
+}

@@ -1,0 +1,15 @@
+{
+    "_id": ObjectId("5c90512b5330203fa88577f3"),
+    "tenLoaiKhachThue": "Sinh Viên",
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5c9051385330203fa88577f4"),
+    "tenLoaiKhachThue": "Người đi làm",
+    "__v": NumberInt(0)
+}
+{
+    "_id": ObjectId("5c90513f5330203fa88577f5"),
+    "tenLoaiKhachThue": "Người thân",
+    "__v": NumberInt(0)
+}
