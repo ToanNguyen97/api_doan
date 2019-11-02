@@ -29,7 +29,7 @@
     "moment": "^2.24.0",
     "mongodb-backup": "^1.6.9",
     "mongodb-restore": "^1.6.2",
-    "mongoose": "^5.4.17",
+    "mongoose": "^5.7.5",
     "mongoose-paginate": "^5.0.3",
     "node-cmd": "^3.0.0",
     "node-excel-export": "^1.4.4",
